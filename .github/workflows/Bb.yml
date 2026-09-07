@@ -1,0 +1,46 @@
+name: Update M3U Playlist Hourly
+
+on:
+  schedule:
+    # ഓരോ 1 മണിക്കൂറിലും തനിയെ റൺ ആകാൻ (Hourly Cron)
+    - cron: '0 * * * *'
+  workflow_dispatch: # നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും സ്വയം റൺ ചെയ്യാം
+  push:
+    branches:
+      - main
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch and Process Playlist
+        run: |
+          python process_playlist.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bb.m3u
+          # എന്തെങ്കിലും മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം കമ്മിറ്റ് ചെയ്യുക
+          if git diff --staged --quiet; then
+            echo "No changes found in playlist."
+          else
+            git commit -m "Hourly update bb.m3u [$(date '+%Y-%m-%d %H:%M:%S')]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
