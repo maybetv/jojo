@@ -1,7 +1,7 @@
 import requests
 import sys
 
-SOURCE_URL = "https://server.lrl45.workers.dev/channel/raw?=m3u"
+SOURCE_URL = "https://event-playlist.rtxcric.workers.dev/playlist.m3u"
 OUTPUT_FILE = "bb.m3u"
 
 def update_m3u():
