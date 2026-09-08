@@ -1,0 +1,358 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Bigboss 24/7 live-MALAYALAM" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-MALAYALAM
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTINF:-1 tvg-name="Bigboss 24/7 live-MALAYALAM" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-4K Bigboss 24/7 live-MALAYALAM
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.png",Zee Marathi HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+https://premiumplug.fun/zee/zee5.php/0-9-zeemarathi.m3u8
+#EXTINF:-1 tvg-id="821" group-title="JIO ⭕|Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="1118" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png",Asianet
+#EXTINF:-1 tvg-id="3423" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYMal.png",Sony Yay Malyalam
+#EXTINF:-1 tvg-id="1662" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",Surya Comedy
+#EXTINF:-1 tvg-id="900" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",Surya HD
+#EXTINF:-1 tvg-id="1754" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png",Surya Movies
+#EXTINF:-1 tvg-id="747" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",Surya Music
+#EXTINF:-1 tvg-id="180" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",Asianet News
+#EXTINF:-1 tvg-id="443" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png",Asianet HD
+#EXTINF:-1 tvg-id="459" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",Asianet Movies HD
+#EXTINF:-1 tvg-id="465" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png",Jaihind tv
+#EXTINF:-1 tvg-id="556" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",Kochu TV
+#EXTINF:-1 tvg-id="563" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
+#EXTINF:-1 tvg-id="606" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png",Shalom
+#EXTINF:-1 tvg-id="634" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
+#EXTINF:-1 tvg-id="648" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
+#EXTINF:-1 tvg-id="650" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News Malayalam
+#EXTINF:-1 tvg-id="662" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",Manorama News
+#EXTINF:-1 tvg-id="699" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
+#EXTINF:-1 tvg-id="710" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",Kairali TV
+#EXTINF:-1 tvg-id="723" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",Amrita TV
+#EXTINF:-1 tvg-id="725" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png",Kairali News
+#EXTINF:-1 tvg-id="731" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",Kairali WE TV
+#EXTINF:-1 tvg-id="739" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",Raj Music Malayalam
+#EXTINF:-1 tvg-id="747" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",Sun Surya Music
+#EXTINF:-1 tvg-id="780" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",Mathrubhumi News
+#EXTINF:-1 tvg-id="786" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
+#EXTINF:-1 tvg-id="810" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam TV
+#EXTINF:-1 tvg-id="842" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png",Jeevan TV
+#EXTINF:-1 tvg-id="844" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazhavil Manorama HD
+#EXTINF:-1 tvg-id="900" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",Sun Surya HD
+#EXTINF:-1 tvg-id="910" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png",Media One TV
+#EXTINF:-1 tvg-id="953" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png",Propex TV
+#EXTINF:-1 tvg-id="965" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Kerala.png",News18 Kerala
+#EXTINF:-1 tvg-id="1139" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png",Asianet Plus
+#EXTINF:-1 tvg-id="1153" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png",Asianet Movies
+#EXTINF:-1 tvg-id="1250" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",Twenty Four News
+#EXTINF:-1 tvg-id="1340" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png",Nick Malayalam
+#EXTINF:-1 tvg-id="1344" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",Sonic Malayalam
+#EXTINF:-1 tvg-id="1388" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Goodness_TV.png",Goodness
+#EXTINF:-1 tvg-id="1429" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png",KITE VICTERS
+#EXTINF:-1 tvg-id="1618" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala
+#EXTINF:-1 tvg-id="1641" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKeralamHD.png",Zee Keralam HD
+#EXTINF:-1 tvg-id="1643" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harvest_TV_24x7.png",Harvest TV 24x7
+#EXTINF:-1 tvg-id="1644" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Powervision_TV.png",Powervision TV
+#EXTINF:-1 tvg-id="1662" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",Sun Surya Comedy
+#EXTINF:-1 tvg-id="1666" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",Safari TV
+#EXTINF:-1 tvg-id="1754" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png",Sun Surya Movies
+#EXTINF:-1 tvg-id="2004" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png",Shekinah TV
+#EXTINF:-1 tvg-id="3184" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Malayalam.png",News Malayalam
+#EXTINF:-1 tvg-id="3431" group-title="JIO ⭕|Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDMal.png",Discovery HD Malayalam
+#EXTINF:-1 tvg-id="3423" group-title="JIO ⭕|Malyalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYMal.png",SONY YAY Malayalam
+#EXTINF:-1 tvg-id="852" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png",Sony BBC Earth HD English
+#EXTINF:-1 tvg-id="853" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png",Sony BBC Earth HD Tamil
+#EXTINF:-1 tvg-id="854" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTel.png",Sony BBC Earth HD Telugu
+#EXTINF:-1 tvg-id="1431" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
+#EXTINF:-1 tvg-id="3033" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Mal.png",Pogo Malayalam
+#EXTINF:-1 tvg-id="3036" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNMalayalam.png",Cartoon Network Malayalam
+#EXTINF:-1 tvg-id="3425" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryMal.png",Discovery Malayalam
+#EXTINF:-1 tvg-id="3448" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsMal.png",Discovery Kids Malayalam
+#EXTINF:-1 tvg-id="3456" group-title="JIO ⭕|Unknown" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDMalayalam.png",Cartoon Network HD+ Malayalam
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwZTNkYjItNWMwNy00YzRhLWIwNjgtMmUyYTAwMjRmOWE0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Chatha Pacha (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Action\Comedy\Drama\Sport\Malayalam ‧ 2h 14m Director Adhvaith Nayar | Writers Adhvaith Nayar ‧ Sanoop Thykoodam | Stars Mammootty ‧ Arjun Ashokan ‧ Roshan Mathew)
+http://tentkotta.short.gy/AgADxx5897.mkv
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZkMTg0ODItOGRkOS00YjZjLWFiMDctNWFkYjZlNmMwMmFjXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬| Tamil Movies",Baby Girl (𝗜𝗠𝗗𝗕 6.2 2026 ‧ Drama\Family\Thriller\Malayalam ‧ 2h 4m Director Arun Varma | Writers Bobby ‧ Sanjay | Stars Nivin Pauly ‧ Lijo Mol Jose ‧ Alphy Panjikaran)
+http://tentkotta.short.gy/AgADax5872.mkv
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://assets.voxcinemas.com/posters/P_HO00008735.jpg" group-title="VT 🎬| Tamil Movies",Ellam Sheriyakum (𝗜𝗠𝗗𝗕 6 2021 ‧ Drama\Malayalam ‧ 2h 18m Director Jibu Jacob | Writers Sharis Mohammed ‧ Nebin ‧ Shalbin | Stars Asif Ali ‧ Rajisha Vijayan ‧ Abhiram V)
+http://tentkotta.short.gy/AgADNx5868.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/647/1769707550647-v" ,Sarvam Maya (𝗜𝗠𝗗𝗕 7.8 2025 ‧ Comedy\Fantasy\Horror\Malayalam ‧ 2h 26m Director Akhil Sathyan | Writers Akhil Sathyan | Stars Nivin Pauly ‧ Riya Shibu ‧ Preity Mukhundhan)
+http://tentkotta.short.gy/AgADpR5787.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMwNTIwM2YtY2UzMC00NTQ0LWFhNTktM2ZiZTEwZTIzYjVlXkEyXkFqcGc@._V1_.jpg" ,Randaam Yaamam (𝗜𝗠𝗗𝗕 4.2 2025 ‧ Drama\Malayalam ‧ 2h 20m Director Nemom Pushparaj | Writers Gopal .R ‧ M.A. Prasanth | Stars Swasika Vijay ‧ Dhruvan ‧ Goutham)
+http://tentkotta.short.gy/AgAD5S5746.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE5YWIzZjQtNDI2OC00MWE3LThmMDctMTUwODAyYWRlMzk5XkEyXkFqcGc@._V1_.jpg" ,Bha Bha Ba (𝗜𝗠𝗗𝗕 5.6 2025 ‧ Action\Comedy\Thriller\Malayalam ‧ 2h 33m Director Dhananjay Shankar | Writers Fahim Safar ‧ Noorin Shereef ‧ Dhananjay Shankar | Stars Dileep ‧ Vineeth Sreenivasan ‧ Dhyan Sreenivasan)
+http://tentkotta.short.gy/AgADlR5731.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1OWVmZjEtZmYzZi00YmUwLWE1ZDctYTU4ZmU5Y2JiNmFhXkEyXkFqcGc@._V1_.jpg" ,Kalamkaval (𝗜𝗠𝗗𝗕 7.6 2025 ‧ Crime\Drama\Malayalam ‧ 2h 19m Director Jithin K. Jose | Writers Jithin K. Jose ‧ Jishnu Sreekumar | Stars Mammootty ‧ Vinayakan ‧ Rajisha Vijayan)
+http://tentkotta.short.gy/AgADiB5705.mkv
+#EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://i.postimg.cc/C1yX6Rps/thundu-malayalam.jpg" ,Thundu (2024 ‧ Action\Drama ‧ 2h 5m Director Riyas Shereef| Writers Kannappan ‧ Riyas Shereef| Stars Noushad Ali ‧ Anand Bbal ‧ Shine Tom Chacko)
+https://bq32.short.gy/66542917b96fd97485be220c.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/647/1769707550647-v" ,Sarvam Maya (𝗜𝗠𝗗𝗕 7.8 2025 ‧ Comedy\Fantasy\Horror\Malayalam ‧ 2h 26m Director Akhil Sathyan | Writers Akhil Sathyan | Stars Nivin Pauly ‧ Riya Shibu ‧ Preity Mukhundhan)
+http://tentkotta.short.gy/AgADpR5787.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMwNTIwM2YtY2UzMC00NTQ0LWFhNTktM2ZiZTEwZTIzYjVlXkEyXkFqcGc@._V1_.jpg" ,Randaam Yaamam (𝗜𝗠𝗗𝗕 4.2 2025 ‧ Drama\Malayalam ‧ 2h 20m Director Nemom Pushparaj | Writers Gopal .R ‧ M.A. Prasanth | Stars Swasika Vijay ‧ Dhruvan ‧ Goutham)
+http://tentkotta.short.gy/AgAD5S5746.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE5YWIzZjQtNDI2OC00MWE3LThmMDctMTUwODAyYWRlMzk5XkEyXkFqcGc@._V1_.jpg" ,Bha Bha Ba (𝗜𝗠𝗗𝗕 5.6 2025 ‧ Action\Comedy\Thriller\Malayalam ‧ 2h 33m Director Dhananjay Shankar | Writers Fahim Safar ‧ Noorin Shereef ‧ Dhananjay Shankar | Stars Dileep ‧ Vineeth Sreenivasan ‧ Dhyan Sreenivasan)
+http://tentkotta.short.gy/AgADlR5731.mkv
+#EXTINF:-1 type="movie" group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1OWVmZjEtZmYzZi00YmUwLWE1ZDctYTU4ZmU5Y2JiNmFhXkEyXkFqcGc@._V1_.jpg" ,Kalamkaval (𝗜𝗠𝗗𝗕 7.6 2025 ‧ Crime\Drama\Malayalam ‧ 2h 19m Director Jithin K. Jose | Writers Jithin K. Jose ‧ Jishnu Sreekumar | Stars Mammootty ‧ Vinayakan ‧ Rajisha Vijayan)
+http://tentkotta.short.gy/AgADiB5705.mkv
+#EXTINF:-1 group-logo="" group-title="VT 🎬| Tamil Movies" tvg-logo="https://i.postimg.cc/C1yX6Rps/thundu-malayalam.jpg" ,Thundu (2024 ‧ Action\Drama ‧ 2h 5m Director Riyas Shereef| Writers Kannappan ‧ Riyas Shereef| Stars Noushad Ali ‧ Anand Bbal ‧ Shine Tom Chacko)
+https://bq32.short.gy/66542917b96fd97485be220c.mkv
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv Channel" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194397" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",Surya HD
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194398" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg",Surya
+https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194385" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",Surya Movies
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194338" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" ,Surya Music
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="193251" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",Surya Comedy
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" group-logo="" tvg-id="194348" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",Kochu
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+#EXTINF:-1 tvg-id="I635.26827.schedulesdirect.org" tvg-name="BBC NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC NEWS
+https://vt-ip.vodep39240327.workers.dev/34.m3u8
+#EXTINF:-1 tvg-id="I281.89542.schedulesdirect.org" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC WORLD NEWS
+https://vt-ip.vodep39240327.workers.dev/35.m3u8
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC ONE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC ONE 4K
+https://vt-ip.vodep39240327.workers.dev/37.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC TWO 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC TWO 4K
+https://vt-ip.vodep39240327.workers.dev/38.m3u8
+#EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC THREE 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC THREE 4K
+https://vt-ip.vodep39240327.workers.dev/39.m3u8
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC FOUR 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC FOUR 4K
+https://vt-ip.vodep39240327.workers.dev/40.m3u8
+#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="BBC EARTH 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC EARTH 4K
+https://vt-ip.vodep39240327.workers.dev/1892.m3u8
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC AMERICA 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |ENGLISH",BBC AMERICA 4K
+https://vt-ip.vodep39240327.workers.dev/1882.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SONY BBC EARTH 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |HINDI",SONY BBC EARTH 4K
+https://vt-ip.vodep39240327.workers.dev/1730.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BIGG BOSS MALAYALAM 24HRS 4K" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",BIGG BOSS MALAYALAM 24HRS 4K
+https://vt-ip.vodep39240327.workers.dev/2878.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="KERALA VISION" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",KERALA VISION
+https://vt-ip.vodep39240327.workers.dev/863.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="POWER VISION TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",POWER VISION TV
+https://vt-ip.vodep39240327.workers.dev/861.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIA NET MOVIES" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIA NET MOVIES
+https://vt-ip.vodep39240327.workers.dev/865.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MEDIAONE TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",MEDIAONE TV
+https://vt-ip.vodep39240327.workers.dev/862.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="GOODNEWS TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",GOODNEWS TV
+https://vt-ip.vodep39240327.workers.dev/866.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIA NET NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIA NET NEWS
+https://vt-ip.vodep39240327.workers.dev/867.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MANORAMA NEWS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",MANORAMA NEWS
+https://vt-ip.vodep39240327.workers.dev/868.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="JEEVAN TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",JEEVAN TV
+https://vt-ip.vodep39240327.workers.dev/869.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="PEOPLE TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",PEOPLE TV
+https://vt-ip.vodep39240327.workers.dev/870.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AMRITA TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",AMRITA TV
+https://vt-ip.vodep39240327.workers.dev/871.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="JAIHIND TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",JAIHIND TV
+https://vt-ip.vodep39240327.workers.dev/872.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="REPORTER TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",REPORTER TV
+https://vt-ip.vodep39240327.workers.dev/873.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIANET TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIANET TV
+https://vt-ip.vodep39240327.workers.dev/874.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIANET PLUS" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIANET PLUS
+https://vt-ip.vodep39240327.workers.dev/879.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIANET TV US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIANET TV US
+https://vt-ip.vodep39240327.workers.dev/875.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="ASIANET PLUS US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",ASIANET PLUS US
+https://vt-ip.vodep39240327.workers.dev/876.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SURYA TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",SURYA TV
+https://vt-ip.vodep39240327.workers.dev/878.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SURYA TV US" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",SURYA TV US
+https://vt-ip.vodep39240327.workers.dev/880.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="KAUMUDY TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",KAUMUDY TV
+https://vt-ip.vodep39240327.workers.dev/881.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="SHALOM TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",SHALOM TV
+https://vt-ip.vodep39240327.workers.dev/883.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="MAZHAVIL MANORAMA" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",MAZHAVIL MANORAMA
+https://vt-ip.vodep39240327.workers.dev/882.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="FLOWERS TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",FLOWERS TV
+https://vt-ip.vodep39240327.workers.dev/885.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="RAJ MUSIC MALAYALAM" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",RAJ MUSIC MALAYALAM
+https://vt-ip.vodep39240327.workers.dev/884.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="WE TV MALAYALAM" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",WE TV MALAYALAM
+https://vt-ip.vodep39240327.workers.dev/886.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="AY TV" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |MALAYALAM",AY TV
+https://vt-ip.vodep39240327.workers.dev/887.m3u8
+#EXTINF:-1 tvg-id="No details available" tvg-name="BBC HD" tvg-logo="" group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |POLISH",BBC HD
+https://vt-ip.vodep39240327.workers.dev/1336.m3u8
+#EXTINF:-1 tvg-name="CTV Mukkam" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_21_57-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", CTV Mukkam
+https://live.skystream.in/live/ctv1805/index.m3u8
+#EXTINF:-1 tvg-name="Cherupuzha Vartha" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_17_04-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Cherupuzha Vartha
+https://live.skystream.in/live/vartha2132/index.m3u8
+#EXTINF:-1 tvg-name="Kasaragod Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-10_06_33-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kasaragod Vision
+https://live.skystream.in/live/kasaragodvsn/index.m3u8
+#EXTINF:-1 tvg-name="Kairali TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-03_40_40-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kairali TV
+null
+#EXTINF:-1 tvg-name="Kairali We" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-03_38_17-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kairali We
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-name="Kairali Arabia" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-2-2026-12_22_26-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kairali Arabia
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-name="Flowers TV USA" tvg-logo="https://tulnit.com/wp-content/uploads/2024/04/ChatGPT-Image-Jan-8-2026-03_52_38-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-name="Amrita TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-03_45_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="Vibgyor TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Mar-9-2026-06_24_45-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Vibgyor TV
+https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Mollywood Max" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-19-2026-05_00_41-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Mollywood Max
+https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
+#EXTINF:-1 tvg-name="NTV UAE HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-07_51_31-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", NTV UAE HD
+https://stream.logichost.in/NTV/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Drisya" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-11_40_28-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Drisya
+https://view.apserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-name="Kappa TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-7-2026-07_57_56-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kappa TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="V9 News Vadakkencherry" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-9-2026-04_20_20-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", V9 News Vadakkencherry
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-name="Gowri Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_43_12-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Gowri Vision
+https://live.applelive.in/gowrivision/gowrivision/index.m3u8
+#EXTINF:-1 tvg-name="Newstar" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Mar-4-2026-10_13_50-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Newstar
+https://live.skystream.in/live/newsstar2924/index.m3u8?hls_ctx=ix6cvu58
+#EXTINF:-1 tvg-name="Media Plus" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Feb-15-2026-10_47_44-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Media Plus
+https://live.applelive.in/mediaplus/mediaplus/index.m3u8
+#EXTINF:-1 tvg-name="TCN Trikaripur" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_54_37-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", TCN Trikaripur
+https://live.skystream.in/live/tcn8909/index.m3u8
+#EXTINF:-1 tvg-name="K7 Keralam" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Jan-7-2026-07_45_02-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", K7 Keralam
+https://live.skystream.in/live/keralam2742/index.m3u8
+#EXTINF:-1 tvg-name="CCNET Cherupuzha" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_43_19-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", CCNET Cherupuzha
+https://live.skystream.in/live/ccnet7082/index.m3u8
+#EXTINF:-1 tvg-name="KCN Kasaragod" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_36_27-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", KCN Kasaragod
+https://live.skystream.in/live/kcnksrgod/index.m3u8
+#EXTINF:-1 tvg-name="VTV Entertainment" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_03_13-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", VTV Entertainment
+https://play.applelive.in/vtv/vtv.m3u8
+#EXTINF:-1 tvg-name="Drisya News Pala" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_29_31-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Drisya News Pala
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8?hls_ctx=351ad30d
+#EXTINF:-1 tvg-name="New Vision Mundakayam" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", New Vision Mundakayam
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF:-1 tvg-name="City Channel Kasargod" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_35_28-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", City Channel Kasargod
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF:-1 tvg-name="City Vision Kannur" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_30_31-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", City Vision Kannur
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1 tvg-name="Network Payyanur" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_28_33-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Network Payyanur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF:-1 tvg-name="UTV Utsav" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_24_21-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", UTV Utsav
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_23_31-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Channel 2
+https://skystream.in/live/channel6785/index.m3u8
+#EXTINF:-1 tvg-name="Drishya TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/drishya-1-185x278.webp" group-title="VT 📺 | Local Channel Malayalam", Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1 tvg-name="Drisya TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_14_25-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8?hls_ctx=64s22r57
+#EXTINF:-1 tvg-name="Kerala Today" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_13_13-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kerala Today
+https://live.skystream.in/live/krlatoday/index.m3u8?hls_ctx=o3048q5j
+#EXTINF:-1 tvg-name="Media Today" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_11_11-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Media Today
+https://live.skystream.in/live/mediatday/index.m3u8?hls_ctx=p080313v
+#EXTINF:-1 tvg-name="Thanima TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_08_24-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Thanima TV
+https://live.skystream.in/live/thanimatvtvm/index.m3u8?hls_ctx=f43tze73
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_26_11-PM-1.png" group-title="VT 📺 | Local Channel Malayalam", GTV
+https://play.applelive.in/gtv/gtv.m3u8
+#EXTINF:-1 tvg-name="Citi Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-02_19_09-PM-1.png" group-title="VT 📺 | Local Channel Malayalam", Citi Channel
+https://anywhere.pwisetthon.com/http://cloud.logichost.in:1935/live/citi/index.m3u8
+#EXTINF:-1 tvg-name="GTV Max" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-4-2025-10_27_28-PM-1.png" group-title="VT 📺 | Local Channel Malayalam", GTV Max
+https://play.applelive.in/gtvmax/gtvmax.m3u8
+#EXTINF:-1 tvg-name="Periyar Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-18-2025-12_20_59-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 tvg-name="Powran TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_42_28-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Powran TV
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
+#EXTINF:-1 tvg-name="Teak Vision Nilambur" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-22-2025-07_58_22-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Teak Vision Nilambur
+https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF:-1 tvg-name="Nattuvartha TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-04_30_51-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Nattuvartha TV
+https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
+#EXTINF:-1 tvg-name="CCTV Pradeshikam" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_31_38-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", CCTV Pradeshikam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV Cinema" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_37_13-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", CCTV Cinema
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV Kunnamkulam" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_39_18-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="N Media Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_55_31-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", N Media Channel
+https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
+#EXTINF:-1 tvg-name="South Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_54_30-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-name="Starnet Kerala" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-08_12_14-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Starnet Kerala
+https://play.applelive.in/starnettv/starnettv.m3u8
+#EXTINF:-1 tvg-name="Safari TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-7-2026-07_52_51-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DD Malayalam" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-03_56_24-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 tvg-name="Magnavision TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_05_42-PM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Magnavision TV
+https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Jeevan TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_08_26-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Jeevan TV
+https://livegeoroueu.akamaized.net/120723/smil:jeevan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Kerala Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_10_32-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kerala Vision
+https://yuppnimrestreammum.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Anand TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_12_16-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+#EXTINF:-1 tvg-name="Darshana TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_14_45-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Darshana TV
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+#EXTINF:-1 tvg-name="Pravasi Channel HD" tvg-logo="https://tulnit.com/wp-content/uploads/2020/08/ChatGPT-Image-Jan-8-2026-04_16_31-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Pravasi Channel HD
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="Kannur Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-8-2026-04_18_52-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF:-1 tvg-name="VCV Vadakkanchery" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-10_52_24-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", VCV Vadakkanchery
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-name="Kaumudy TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-08_54_50-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="C Malayalam TV" tvg-logo="https://tulnit.com/wp-content/uploads/2024/11/ChatGPT-Image-Apr-10-2025-10_08_47-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Starnet Vadakkanchery" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-11_11_25-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Starnet Vadakkanchery
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-name="Garshom TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-08_57_39-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-name="Divine TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_12_33-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Divine TV
+https://bozztv.com/gfaith/gfaith-divine/index.m3u8
+#EXTINF:-1 tvg-name="Venad News Kollam" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-11_14_54-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Venad News Kollam
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1 tvg-name="KCL Kozhikode" tvg-logo="https://tulnit.com/wp-content/uploads/2023/02/ChatGPT-Image-Apr-10-2025-10_11_50-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", KCL Kozhikode
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-name="Janasruthi Media" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-28-2025-10_44_58-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Janasruthi Media
+https://live.applelive.in/janasruthitv/janasruthitv/index.m3u8
+#EXTINF:-1 tvg-name="Media Vision TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-12-2025-07_08_14-PM-185x278.jpg" group-title="VT 📺 | Local Channel Malayalam", Media Vision TV
+https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Wayanad Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Nov-4-2025-02_26_13-PM-1.png" group-title="VT 📺 | Local Channel Malayalam", Wayanad Vision
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="UTV Palakkad" tvg-logo="https://tulnit.com/wp-content/uploads/2024/11/Apr-10-2025-09_59_23-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Harvest USA" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_56_38-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Harvest USA
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Pulari TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/11/ChatGPT-Image-Apr-10-2025-10_05_47-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="N Vision" tvg-logo="https://tulnit.com/wp-content/uploads/2024/10/ChatGPT-Image-Aug-21-2025-10_31_20-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", N Vision
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
+#EXTINF:-1 tvg-name="N Vision Music" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_32_56-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", N Vision Music
+https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+#EXTINF:-1 tvg-name="Koickal News" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_38_16-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Koickal News
+https://play.applelive.in/koickalnews/koickalnews.m3u8
+#EXTINF:-1 tvg-name="Victers Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_46_11-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Victers Channel
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="NV TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-04_37_59-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", NV TV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF:-1 tvg-name="MCV Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-03_30_26-PM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", MCV Channel
+https://testajak.keralive.workers.dev/live/mcvlive/index.m3u8
+#EXTINF:-1 tvg-name="KCN HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_39_38-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", KCN HD
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+#EXTINF:-1 tvg-name="Malabar Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_28_17-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Malabar Channel
+https://testajak.keralive.workers.dev/live/malabarnews/index.m3u8
+#EXTINF:-1 tvg-name="Malabar Plus" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_24_43-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Malabar Plus
+https://logichost.keralive.workers.dev/live/mplus/index.m3u8
+#EXTINF:-1 tvg-name="Swantham Channel" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_21_01-AM-1-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Swantham Channel
+https://testajak.keralive.workers.dev/SWANTHAM/live/index.m3u8
+#EXTINF:-1 tvg-name="KVTV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/05/May-6-2025-04_06_59-PM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", KVTV
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="KVTV Live" tvg-logo="https://tulnit.com/wp-content/uploads/2025/05/ChatGPT-Image-May-6-2025-04_22_58-PM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", KVTV Live
+https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/chunklist.m3u8
+#EXTINF:-1 tvg-name="Word to World" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-10_00_34-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Word to World
+https://live.wmncdn.net/worldtoworld/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Goodness TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_51_13-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Goodness TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:goodness.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Harvest TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_41_18-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Vision TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_52_05-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Power Vision TV
+https://yuppnimresmum.akamaized.net/28072023/smil:powervision.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Shalom TV" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_19_40-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Shalom TV
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="Shalom Global" tvg-logo="https://tulnit.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-30-2025-10_00_46-PM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Shalom Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="Shekinah TV" tvg-logo="https://tulnit.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-10-2025-09_14_48-AM-185x278.png" group-title="VT 📺 | Local Channel Malayalam", Shekinah TV
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
