@@ -1,13 +1,13 @@
-name: Extract M3U Channels
+name: Extract Full Hotstar Streams with DRM & Headers
 
 on:
   schedule:
-    # ഓരോ 10 മിനിറ്റ് കൂടുമ്പോഴും റൺ ചെയ്യാൻ
+    # ഓരോ 10 മിനിറ്റിലും റൺ ചെയ്യാൻ
     - cron: '*/10 * * * *'
   workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാൻ
 
 permissions:
-  contents: write # ഫയൽ commit ചെയ്ത് push ചെയ്യാനുള്ള അനുമതി
+  contents: write # GitHub-ലേക്ക് ഫയൽ സേവ് ചെയ്യാനുള്ള അനുമതി
 
 jobs:
   filter-m3u:
@@ -27,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Download and Filter Channels
+      - name: Extract Channels with Complete Headers & Props
         run: |
           python - << 'EOF'
           import requests
@@ -36,11 +36,11 @@ jobs:
           output_file = "bm.m3u"
 
           headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
           }
 
           try:
-              print(f"Downloading M3U playlist from: {url}")
+              print(f"Downloading source M3U from: {url}")
               response = requests.get(url, headers=headers, timeout=60)
               response.raise_for_status()
               content = response.text
@@ -49,54 +49,42 @@ jobs:
               exit(1)
 
           lines = content.splitlines()
-          extracted_items = []
-          
-          i = 0
-          while i < len(lines):
-              line = lines[i].strip()
-              if line.startswith("#EXTINF"):
-                  info_line = line
-                  url_line = ""
-                  
-                  # ചാനൽ ടാഗുകളും ലിങ്കും കണ്ടെത്തുന്നു
-                  j = i + 1
-                  extra_tags = []
-                  while j < len(lines):
-                      next_line = lines[j].strip()
-                      if not next_line:
-                          j += 1
-                          continue
-                      if next_line.startswith("#EXTVLCOPT") or next_line.startswith("#EXTGRP"):
-                          extra_tags.append(next_line)
-                          j += 1
-                      elif not next_line.startswith("#"):
-                          url_line = next_line
-                          break
-                      else:
-                          break
+          all_blocks = []
+          current_block = []
 
-                  lower_info = info_line.lower()
-                  
-                  # ബിബിസി മലയാളം / മലയാളം ഫിൽട്ടർ ചെയ്യുന്നു
-                  if "malayalam" in lower_info or "bbc" in lower_info:
-                      extracted_items.append(info_line)
-                      for tag in extra_tags:
-                          extracted_items.append(tag)
-                      if url_line:
-                          extracted_items.append(url_line)
+          # ഓരോ ചാനലിന്റെയും സമ്പൂർണ്ണ ബ്ലോക്ക് (Tags + KodiProps + URL) വേർതിരിക്കുന്നു
+          for line in lines:
+              stripped = line.strip()
+              if not stripped:
+                  continue
+              
+              # പുതിയ ചാനൽ എൻട്രി തുടങ്ങുമ്പോൾ പഴയത് സേവ് ചെയ്യുന്നു
+              if stripped.startswith("#EXTINF"):
+                  if current_block:
+                      all_blocks.append(current_block)
+                  current_block = [stripped]
+              elif current_block:
+                  current_block.append(stripped)
 
-                  i = j
-              else:
-                  i += 1
+          if current_block:
+              all_blocks.append(current_block)
 
-          if extracted_items:
+          # Hotstar അടങ്ങിയ ബ്ലോക്കുകൾ മാത്രം ഫിൽട്ടർ ചെയ്യുന്നു
+          extracted_blocks = []
+          for block in all_blocks:
+              block_text = "\n".join(block).lower()
+              if "hotstar" in block_text:
+                  extracted_blocks.append(block)
+
+          if extracted_blocks:
               with open(output_file, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n")
-                  for item in extracted_items:
-                      f.write(item + "\n")
-              print(f"Success! {len(extracted_items)} items written to {output_file}")
+                  for block in extracted_blocks:
+                      for item in block:
+                          f.write(item + "\n")
+              print(f"Success! {len(extracted_blocks)} complete Hotstar channel blocks extracted to {output_file}")
           else:
-              print("No matching channels found.")
+              print("No matching Hotstar streams found.")
           EOF
 
       - name: Commit and Push Changes
@@ -105,9 +93,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add bm.m3u
           if git status --porcelain | grep -q 'bm.m3u'; then
-            git commit -m "Auto-update bm.m3u playlist [skip ci]"
+            git commit -m "Auto-update complete Hotstar channels [skip ci]"
             git push
           else
             echo "No changes to commit."
           fi
-
