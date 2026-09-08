@@ -2,12 +2,14 @@ name: Update M3U Playlist Hourly
 
 on:
   schedule:
-    # ഓരോ 1 മണിക്കൂറിലും തനിയെ റൺ ആകാൻ (Hourly Cron)
     - cron: '0 * * * *'
-  workflow_dispatch: # നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും സ്വയം റൺ ചെയ്യാം
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   update-playlist:
@@ -24,7 +26,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests
+          pip install curl_cffi
 
       - name: Fetch and Process Playlist
         run: |
@@ -35,11 +37,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add bb.m3u
-          # എന്തെങ്കിലും മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം കമ്മിറ്റ് ചെയ്യുക
           if git diff --staged --quiet; then
             echo "No changes found in playlist."
           else
-            git commit -m "Hourly update bb.m3u [$(date '+%Y-%m-%d %H:%M:%S')]"
+            git commit -m "Hourly update bb.m3u for NS Player [$(date '+%Y-%m-%d %H:%M:%S')]"
             git push
           fi
         env:
