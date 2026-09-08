@@ -24,11 +24,13 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
+      - name: Download Playlist using cURL
         run: |
-          pip install curl_cffi
+          curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+               -H "Referer: https://live-event-by-rtxcric.rtxcric.workers.dev/" \
+               "https://live-event-by-rtxcric.rtxcric.workers.dev/playlist.m3u" -o raw_playlist.m3u
 
-      - name: Fetch and Process Playlist
+      - name: Process Playlist for NS Player
         run: |
           python process_playlist.py
 
