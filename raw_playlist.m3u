@@ -5,7 +5,7 @@ INPUT_FILE = "raw_playlist.m3u"
 OUTPUT_FILE = "bb.m3u"
 
 DEFAULT_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-DEFAULT_REF = "https://live-event-by-rtxcric.rtxcric.workers.dev/"
+DEFAULT_REF = "https://server.lrl45.workers.dev/channel/raw?=m3u"
 
 def format_for_ns_player(raw_content):
     lines = raw_content.splitlines()
