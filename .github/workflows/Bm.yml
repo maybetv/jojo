@@ -1,4 +1,4 @@
-name: Extract Full Hotstar Streams with DRM & Headers
+name: Extract Bigg Boss Malayalam Hotstar Stream
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാൻ
 
 permissions:
-  contents: write # GitHub-ലേക്ക് ഫയൽ സേവ് ചെയ്യാനുള്ള അനുമതി
+  contents: write # GitHub-ലേക്ക് ഫയൽ പുഷ് ചെയ്യാനുള്ള അനുമതി
 
 jobs:
   filter-m3u:
@@ -27,10 +27,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Extract Channels with Complete Headers & Props
+      - name: Extract Bigg Boss Malayalam Channels
         run: |
           python - << 'EOF'
           import requests
+          import re
 
           url = "https://server.lrl45.workers.dev/channel/raw?=m3u"
           output_file = "bm.m3u"
@@ -52,13 +53,12 @@ jobs:
           all_blocks = []
           current_block = []
 
-          # ഓരോ ചാനലിന്റെയും സമ്പൂർണ്ണ ബ്ലോക്ക് (Tags + KodiProps + URL) വേർതിരിക്കുന്നു
+          # ഓരോ ചാനലിന്റെയും സമ്പൂർണ്ണ ബ്ലോക്ക് (Tags + KodiProps + Headers + Stream URL) വേർതിരിക്കുന്നു
           for line in lines:
               stripped = line.strip()
               if not stripped:
                   continue
               
-              # പുതിയ ചാനൽ എൻട്രി തുടങ്ങുമ്പോൾ പഴയത് സേവ് ചെയ്യുന്നു
               if stripped.startswith("#EXTINF"):
                   if current_block:
                       all_blocks.append(current_block)
@@ -69,22 +69,39 @@ jobs:
           if current_block:
               all_blocks.append(current_block)
 
-          # Hotstar അടങ്ങിയ ബ്ലോക്കുകൾ മാത്രം ഫിൽട്ടർ ചെയ്യുന്നു
-          extracted_blocks = []
-          for block in all_blocks:
-              block_text = "\n".join(block).lower()
-              if "hotstar" in block_text:
-                  extracted_blocks.append(block)
+          print(f"Total channel blocks found: {len(all_blocks)}")
 
-          if extracted_blocks:
+          # Step 1: ആദ്യം Hotstar അടങ്ങിയ ബ്ലോക്കുകൾ മാത്രം കണ്ടെത്തുന്നു
+          hotstar_blocks = []
+          for block in all_blocks:
+              block_content = "\n".join(block).lower()
+              if "hotstar" in block_content:
+                  hotstar_blocks.append(block)
+
+          print(f"Hotstar channels found: {len(hotstar_blocks)}")
+
+          # Step 2: Hotstar ലിങ്കുകളിൽ നിന്ന് 'Bigg Boss Malayalam' മാത്രം ഫിൽട്ടർ ചെയ്യുന്നു
+          final_blocks = []
+          for block in hotstar_blocks:
+              # ചാനൽ ടൈറ്റിലും വിവരങ്ങളും അടങ്ങിയ ഭാഗം
+              block_content = "\n".join(block).lower()
+              
+              # 'bigg boss' ഉം 'malayalam' ഉം ഒരുമിച്ചുണ്ടോ, അല്ലെങ്കിൽ 'bb malayalam' ഉണ്ടോ എന്ന് പരിശോധിക്കുന്നു
+              is_bigg_boss = ("bigg boss" in block_content) or ("biggboss" in block_content) or ("bb malayalam" in block_content) or ("bbm" in block_content)
+              is_malayalam = ("malayalam" in block_content) or ("asianet" in block_content)
+
+              if is_bigg_boss and is_malayalam:
+                  final_blocks.append(block)
+
+          if final_blocks:
               with open(output_file, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n")
-                  for block in extracted_blocks:
+                  for block in final_blocks:
                       for item in block:
                           f.write(item + "\n")
-              print(f"Success! {len(extracted_blocks)} complete Hotstar channel blocks extracted to {output_file}")
+              print(f"Success! {len(final_blocks)} Bigg Boss Malayalam stream(s) written to {output_file}")
           else:
-              print("No matching Hotstar streams found.")
+              print("No matching Bigg Boss Malayalam stream found under Hotstar.")
           EOF
 
       - name: Commit and Push Changes
@@ -93,8 +110,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add bm.m3u
           if git status --porcelain | grep -q 'bm.m3u'; then
-            git commit -m "Auto-update complete Hotstar channels [skip ci]"
+            git commit -m "Auto-update Bigg Boss Malayalam stream [skip ci]"
             git push
           else
-            echo "No changes to commit."
+            echo "No changes to commit (playlist is up to date)."
           fi
