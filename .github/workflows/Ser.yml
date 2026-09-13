@@ -28,7 +28,7 @@ jobs:
           python-version: '3.x'
 
       - name: Download Original Playlist
-        run: curl -L "https://convert.kbhub.online/file/Generate/verse-4TRFXVEGJF/all.m3u" -o Ser.m3u
+        run: curl -L "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" -o Ser.m3u
 
       - name: Extract Links and Create New Playlist
         shell: python
