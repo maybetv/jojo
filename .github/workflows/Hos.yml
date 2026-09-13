@@ -1,0 +1,34 @@
+name: Update HOS Playlist
+
+on:
+  schedule:
+    # ദിവസവും പുലർച്ചെ (UTC) ഓട്ടോമാറ്റിക് ആയി അപ്ഡേറ്റ് ആകാൻ
+    - cron: '0 0 * * *'
+  # ആവശ്യമുള്ളപ്പോൾ നിങ്ങൾക്ക് മാനുവൽ ആയി റൺ ചെയ്യാനുള്ള ബട്ടൺ
+  workflow_dispatch:
+
+jobs:
+  sync-playlist:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # റിപ്പോസിറ്ററിയിലേക്ക് ഫയൽ പുഷ് ചെയ്യാനുള്ള അനുമതി
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download and Save as HOS.m3u
+        run: |
+          # സോഴ്സ് ലിങ്കിൽ നിന്ന് ഡാറ്റ ഡൗൺലോഡ് ചെയ്ത് HOS.m3u ആയി മാറ്റുന്നു
+          curl -s -L -A "Mozilla/5.0" "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" -o HOS.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add HOS.m3u
+          # എന്തെങ്കിലും മാറ്റമുണ്ടെങ്കിൽ മാത്രം കമ്മിറ്റ് ചെയ്യുക
+          git commit -m "Updated HOS.m3u playlist" || echo "No changes detected"
+          git push
+
