@@ -2,9 +2,8 @@ name: Rewrite and Auto-update Playlist
 
 on:
   schedule:
-    # ഓരോ 12 മണിക്കൂറിലും റൺ ചെയ്യും
     - cron: '0 */12 * * *'
-  workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാൻ
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -26,44 +25,38 @@ jobs:
         run: |
           python - << 'EOF'
           import urllib.request
-          import re
           import sys
+          import os
 
-          # സോഴ്സ് Xtream ഡൗൺലോഡ് ലിങ്ക്
           SOURCE_URL = "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus"
           
-          # ഫയലിലെ ലിങ്കുകൾ റീപ്ലേസ് ചെയ്യേണ്ട പുതിയ URL (നിങ്ങളുടെ ആവശ്യത്തിനനുസരിച്ച് മാറ്റുക)
-          # ഉദാഹരണത്തിന് നിങ്ങളുടെ സ്വന്തം പ്രോക്സി അല്ലെങ്കിൽ റീഡയറക്ട് സെർവർ:
-          NEW_BASE_URL = "https://your-custom-domain.com"
-          
-          # പഴയ Xtream URL പാറ്റേൺ (ഡൊമെയ്ൻ, യൂസർനെയിം, പാസ്‌വേർഡ് അടങ്ങിയത്)
-          OLD_BASE_PATTERN = "http://skyfilex.fun"
+          # IPTV സെർവറുകൾ സാധാരണ ബ്ലോക്ക് ചെയ്യാത്ത VLC / IPTV പ്ലെയർ ഹെഡർ
+          headers = {
+              'User-Agent': 'IPTVSmartersPro/1.1.1 (Linux; Android 10)',
+              'Accept': '*/*'
+          }
 
-          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-          req = urllib.request.Request(SOURCE_URL, headers=headers)
+          print("M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ ശ്രമിക്കുന്നു...")
 
-          print("M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു...")
           try:
-              with urllib.request.urlopen(req, timeout=60) as response:
+              req = urllib.request.Request(SOURCE_URL, headers=headers)
+              with urllib.request.urlopen(req, timeout=45) as response:
                   content = response.read().decode('utf-8', errors='ignore')
           except Exception as e:
-              print(f"ഡൗൺലോഡ് പരാജയപ്പെട്ടു: {e}")
+              print(f"ലിങ്ക് വഴി കണക്ട് ചെയ്യാൻ കഴിഞ്ഞില്ല: {e}")
+              print("മുന്നറിയിപ്പ്: അക്കൗണ്ട് എക്സ്പയർ ആയതോ സെർവർ GitHub ക്ലൗഡ് IP ബ്ലോക്ക് ചെയ്തതോ ആകാം.")
+              # ഫയൽ ഒറിജിനൽ ആയി ഉണ്ടെങ്കിൽ അത് ഡിലീറ്റ് ആവാതിരിക്കാൻ നിർത്തുന്നു
               sys.exit(1)
 
-          # M3U സാധുവായതാണോ എന്ന് പരിശോധിക്കുന്നു (404 HTML പേജുകൾ ഒഴിവാക്കാൻ)
-          if not content.startswith("#EXTM3U"):
-              print("തെറ്റ്: ലഭിച്ച ഫയൽ M3U ഫോർമാറ്റിൽ ഉള്ളതല്ല (404/Error HTML ആണ് വന്നത്).")
+          if "#EXTM3U" not in content:
+              print("ഡൗൺലോഡ് ചെയ്തതിൽ സാധുവായ M3U ഡാറ്റ ലഭിച്ചില്ല.")
               sys.exit(1)
 
-          # ലിങ്കുകൾ റീറൈറ്റ് ചെയ്യുന്നു
-          # പഴയ സെർവർ ലിങ്ക് മാറ്റി പുതിയ ലിങ്ക് ആക്കുന്നു
-          updated_content = content.replace(OLD_BASE_PATTERN, NEW_BASE_URL)
-
-          # മാറ്റങ്ങൾ വരുത്തിയ ഫയൽ hos.m3u എന്ന പേരിൽ സേവ് ചെയ്യുന്നു
+          # സേവ് ചെയ്യുന്നു
           with open("hos.m3u", "w", encoding="utf-8") as f:
-              f.write(updated_content)
+              f.write(content)
 
-          print("hos.m3u വിജയകരമായി റീറൈറ്റ് ചെയ്തു സേവ് ചെയ്തു.")
+          print("hos.m3u വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു.")
           EOF
 
       - name: Commit and Push
@@ -73,8 +66,8 @@ jobs:
 
           if git status --porcelain | grep -q "hos.m3u"; then
             git add hos.m3u
-            git commit -m "Auto-update & rewrite hos.m3u playlist [skip ci]"
+            git commit -m "Auto-update hos.m3u playlist [skip ci]"
             git push
           else
-            echo "ലിങ്കുകളിൽ മാറ്റങ്ങളൊന്നും വന്നിട്ടില്ല."
+            echo "ലിസ്റ്റിൽ മാറ്റങ്ങളൊന്നും വന്നിട്ടില്ല."
           fi
