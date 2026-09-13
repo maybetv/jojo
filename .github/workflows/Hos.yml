@@ -1,34 +1,39 @@
-name: Update HOS Playlist
+name: Update M3U Playlist
 
 on:
   schedule:
-    # ദിവസവും പുലർച്ചെ (UTC) ഓട്ടോമാറ്റിക് ആയി അപ്ഡേറ്റ് ആകാൻ
-    - cron: '0 0 * * *'
-  # ആവശ്യമുള്ളപ്പോൾ നിങ്ങൾക്ക് മാനുവൽ ആയി റൺ ചെയ്യാനുള്ള ബട്ടൺ
+    # Runs automatically every 12 hours (00:00 and 12:00 UTC)
+    - cron: '0 0,12 * * *'
+  # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  sync-playlist:
+  download-and-commit:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write  # റിപ്പോസിറ്ററിയിലേക്ക് ഫയൽ പുഷ് ചെയ്യാനുള്ള അനുമതി
-
     steps:
-      - name: Checkout Repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Download and Save as HOS.m3u
+      - name: Download M3U playlist
         run: |
-          # സോഴ്സ് ലിങ്കിൽ നിന്ന് ഡാറ്റ ഡൗൺലോഡ് ചെയ്ത് HOS.m3u ആയി മാറ്റുന്നു
-          curl -s -L -A "Mozilla/5.0" "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" -o HOS.m3u
+          curl -s -L -A "Mozilla/5.0" \
+            "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" \
+            -o hos.m3u
 
-      - name: Commit and Push Changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add HOS.m3u
-          # എന്തെങ്കിലും മാറ്റമുണ്ടെങ്കിൽ മാത്രം കമ്മിറ്റ് ചെയ്യുക
-          git commit -m "Updated HOS.m3u playlist" || echo "No changes detected"
-          git push
-
+          git add hos.m3u
+          
+          # Only commit if changes exist
+          if git diff --staged --quiet; then
+            echo "No changes detected in hos.m3u"
+          else
+            git commit -m "Auto-update hos.m3u playlist [skip ci]"
+            git push
+          fi
