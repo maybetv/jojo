@@ -1,73 +1,42 @@
-name: Rewrite and Auto-update Playlist
+name: Update SHOS.m3u
 
 on:
-  schedule:
-    - cron: '0 */12 * * *'
   workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
 
 jobs:
-  process-m3u:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Download, Validate, and Rewrite M3U
+      - name: Download M3U Playlist
         run: |
-          python - << 'EOF'
-          import urllib.request
-          import sys
-          import os
+          curl -L --fail --silent --show-error \
+            -A "Mozilla/5.0" \
+            "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" \
+            -o SHOS.m3u
 
-          SOURCE_URL = "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus"
-          
-          # IPTV സെർവറുകൾ സാധാരണ ബ്ലോക്ക് ചെയ്യാത്ത VLC / IPTV പ്ലെയർ ഹെഡർ
-          headers = {
-              'User-Agent': 'IPTVSmartersPro/1.1.1 (Linux; Android 10)',
-              'Accept': '*/*'
-          }
+          test -s SHOS.m3u
+          grep -q "#EXTM3U" SHOS.m3u
 
-          print("M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ ശ്രമിക്കുന്നു...")
-
-          try:
-              req = urllib.request.Request(SOURCE_URL, headers=headers)
-              with urllib.request.urlopen(req, timeout=45) as response:
-                  content = response.read().decode('utf-8', errors='ignore')
-          except Exception as e:
-              print(f"ലിങ്ക് വഴി കണക്ട് ചെയ്യാൻ കഴിഞ്ഞില്ല: {e}")
-              print("മുന്നറിയിപ്പ്: അക്കൗണ്ട് എക്സ്പയർ ആയതോ സെർവർ GitHub ക്ലൗഡ് IP ബ്ലോക്ക് ചെയ്തതോ ആകാം.")
-              # ഫയൽ ഒറിജിനൽ ആയി ഉണ്ടെങ്കിൽ അത് ഡിലീറ്റ് ആവാതിരിക്കാൻ നിർത്തുന്നു
-              sys.exit(1)
-
-          if "#EXTM3U" not in content:
-              print("ഡൗൺലോഡ് ചെയ്തതിൽ സാധുവായ M3U ഡാറ്റ ലഭിച്ചില്ല.")
-              sys.exit(1)
-
-          # സേവ് ചെയ്യുന്നു
-          with open("hos.m3u", "w", encoding="utf-8") as f:
-              f.write(content)
-
-          print("hos.m3u വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു.")
-          EOF
-
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git status --porcelain | grep -q "hos.m3u"; then
-            git add hos.m3u
-            git commit -m "Auto-update hos.m3u playlist [skip ci]"
-            git push
+          git add SHOS.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes found"
           else
-            echo "ലിസ്റ്റിൽ മാറ്റങ്ങളൊന്നും വന്നിട്ടില്ല."
+            git commit -m "Update SHOS.m3u"
+            git push
           fi
