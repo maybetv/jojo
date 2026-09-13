@@ -1,39 +1,80 @@
-name: Update M3U Playlist
+name: Rewrite and Auto-update Playlist
 
 on:
   schedule:
-    # Runs automatically every 12 hours (00:00 and 12:00 UTC)
-    - cron: '0 0,12 * * *'
-  # Allows manual triggering from the Actions tab
-  workflow_dispatch:
+    # ഓരോ 12 മണിക്കൂറിലും റൺ ചെയ്യും
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാൻ
 
 permissions:
   contents: write
 
 jobs:
-  download-and-commit:
+  process-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download M3U playlist
-        run: |
-          curl -s -L -A "Mozilla/5.0" \
-            "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus" \
-            -o hos.m3u
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Commit and push changes
+      - name: Download, Validate, and Rewrite M3U
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add hos.m3u
+          python - << 'EOF'
+          import urllib.request
+          import re
+          import sys
+
+          # സോഴ്സ് Xtream ഡൗൺലോഡ് ലിങ്ക്
+          SOURCE_URL = "http://skyfilex.fun/get.php?username=AnKit3803&password=3803AnkIT&type=m3u_plus"
           
-          # Only commit if changes exist
-          if git diff --staged --quiet; then
-            echo "No changes detected in hos.m3u"
-          else
-            git commit -m "Auto-update hos.m3u playlist [skip ci]"
+          # ഫയലിലെ ലിങ്കുകൾ റീപ്ലേസ് ചെയ്യേണ്ട പുതിയ URL (നിങ്ങളുടെ ആവശ്യത്തിനനുസരിച്ച് മാറ്റുക)
+          # ഉദാഹരണത്തിന് നിങ്ങളുടെ സ്വന്തം പ്രോക്സി അല്ലെങ്കിൽ റീഡയറക്ട് സെർവർ:
+          NEW_BASE_URL = "https://your-custom-domain.com"
+          
+          # പഴയ Xtream URL പാറ്റേൺ (ഡൊമെയ്ൻ, യൂസർനെയിം, പാസ്‌വേർഡ് അടങ്ങിയത്)
+          OLD_BASE_PATTERN = "http://skyfilex.fun"
+
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+          req = urllib.request.Request(SOURCE_URL, headers=headers)
+
+          print("M3U ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു...")
+          try:
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  content = response.read().decode('utf-8', errors='ignore')
+          except Exception as e:
+              print(f"ഡൗൺലോഡ് പരാജയപ്പെട്ടു: {e}")
+              sys.exit(1)
+
+          # M3U സാധുവായതാണോ എന്ന് പരിശോധിക്കുന്നു (404 HTML പേജുകൾ ഒഴിവാക്കാൻ)
+          if not content.startswith("#EXTM3U"):
+              print("തെറ്റ്: ലഭിച്ച ഫയൽ M3U ഫോർമാറ്റിൽ ഉള്ളതല്ല (404/Error HTML ആണ് വന്നത്).")
+              sys.exit(1)
+
+          # ലിങ്കുകൾ റീറൈറ്റ് ചെയ്യുന്നു
+          # പഴയ സെർവർ ലിങ്ക് മാറ്റി പുതിയ ലിങ്ക് ആക്കുന്നു
+          updated_content = content.replace(OLD_BASE_PATTERN, NEW_BASE_URL)
+
+          # മാറ്റങ്ങൾ വരുത്തിയ ഫയൽ hos.m3u എന്ന പേരിൽ സേവ് ചെയ്യുന്നു
+          with open("hos.m3u", "w", encoding="utf-8") as f:
+              f.write(updated_content)
+
+          print("hos.m3u വിജയകരമായി റീറൈറ്റ് ചെയ്തു സേവ് ചെയ്തു.")
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git status --porcelain | grep -q "hos.m3u"; then
+            git add hos.m3u
+            git commit -m "Auto-update & rewrite hos.m3u playlist [skip ci]"
             git push
+          else
+            echo "ലിങ്കുകളിൽ മാറ്റങ്ങളൊന്നും വന്നിട്ടില്ല."
           fi
