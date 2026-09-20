@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,27 +51,18 @@ jobs:
               if not line:
                   continue
               
-              # Save the channel metadata line (#EXTINF)
               if line.startswith("#EXTINF"):
                   current_info = line
-              # If it's a URL, extract it and create your new format
               elif line.startswith("http://") or line.startswith("https://"):
                   original_link = line
-                  
-                  # --- CUSTOMIZE YOUR NEW CODE FORMAT HERE ---
-                  # Example: Adding custom URL parameters or changing the path
-                  # For now, this template just creates a clean fallback, 
-                  # but you can manipulate 'original_link' using python string methods.
                   custom_code_link = f"{original_link}" 
-                  # ------------------------------------------
                   if current_info:
                       new_playlist.append(f"{current_info}\n")
                   new_playlist.append(f"{custom_code_link}\n")
-                  current_info = "" # Reset for next channel
+                  current_info = ""
               elif line.startswith("#EXTM3U"):
                   continue
               else:
-                  # Catch any other tags like #EXTGRP
                   if current_info:
                       new_playlist.append(f"{line}\n")
           with open(output_file, "w", encoding="utf-8") as f:
@@ -81,16 +74,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Add both the original and the newly generated playlist
           git add Ser.m3u New_Codes.m3u
           
-          # Only proceed if changes are detected
           if ! git diff --cached --quiet; then
             git commit -m "chore: update playlists and extract new codes"
-            
-            # Fetch and rebase remote changes to avoid push conflicts
-            git pull --rebase origin main
-            
+            git pull origin main --rebase
             git push origin main
           else
             echo "No updates to sync."
