@@ -1,0 +1,109 @@
+name: Extract Bigg Boss Channels to BBM Playlist
+
+on:
+  schedule:
+    # ഓരോ 6 മണിക്കൂറിലും ഓട്ടോമാറ്റിക് ആയി റൺ ചെയ്യാൻ (ആവശ്യമെങ്കിൽ മാറ്റാം)
+    - cron: '0 */6 * * *'
+  # GitHub-ൽ നിന്ന് മാനുവൽ ആയി 'Run workflow' ബട്ടൺ അമർത്തി എപ്പോൾ വേണമെങ്കിലും റൺ ചെയ്യാം
+  workflow_dispatch:
+
+jobs:
+  extract-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Download and Filter Bigg Boss Channels
+        run: |
+          python - << 'EOF'
+          import re
+          import requests
+
+          SOURCE_URL = "https://lazyspace.online/u1u9g1uj.m3u"
+          OUTPUT_FILE = "bbm.m3u"
+
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          }
+
+          print(f"Downloading playlist from: {SOURCE_URL}")
+          try:
+              response = requests.get(SOURCE_URL, headers=headers, timeout=60)
+              response.raise_for_status()
+              content = response.text
+          except Exception as e:
+              print(f"Error fetching M3U: {e}")
+              exit(1)
+
+          lines = content.splitlines()
+          extracted_channels = []
+          i = 0
+
+          # Regex to match 'Bigg Boss', 'Biggboss', 'BB' etc. (case-insensitive)
+          bb_pattern = re.compile(r'\b(bigg[\s_-]?boss|bb)\b', re.IGNORECASE)
+
+          while i < len(lines):
+              line = lines[i].strip()
+              if line.startswith("#EXTINF"):
+                  # Gather all tags/metadata for this channel
+                  entry_lines = [line]
+                  i += 1
+                  
+                  # Collect any intermediate tags (like #EXTVLCOPT, #EXTHTTP, headers etc.)
+                  while i < len(lines) and lines[i].strip().startswith("#") and not lines[i].strip().startswith("#EXTINF"):
+                      if lines[i].strip():
+                          entry_lines.append(lines[i].strip())
+                      i += 1
+                  
+                  # Next non-empty line should be the Stream URL
+                  if i < len(lines) and lines[i].strip() and not lines[i].strip().startswith("#"):
+                      stream_url = lines[i].strip()
+                      entry_lines.append(stream_url)
+                      
+                      # Check if any tag or channel title contains Bigg Boss
+                      full_entry_text = "\n".join(entry_lines)
+                      if bb_pattern.search(full_entry_text):
+                          extracted_channels.append(full_entry_text)
+              i += 1
+
+          print(f"Found {len(extracted_channels)} Bigg Boss channels.")
+
+          if not extracted_channels:
+              print("No Bigg Boss channels found! Keeping existing file if any.")
+              exit(0)
+
+          # Write out to bbm.m3u
+          with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+              f.write("#EXTM3U\n\n")
+              for channel in extracted_channels:
+                  f.write(channel + "\n\n")
+
+          print(f"Successfully generated {OUTPUT_FILE}")
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bbm.m3u
+          if git diff --staged --quiet; then
+            echo "No changes detected in bbm.m3u."
+          else
+            git commit -m "Update BBM (Bigg Boss) playlist"
+            git push
+          fi
+
