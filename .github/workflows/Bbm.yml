@@ -2,9 +2,7 @@ name: Extract Bigg Boss Channels to BBM Playlist
 
 on:
   schedule:
-    # ഓരോ 6 മണിക്കൂറിലും ഓട്ടോമാറ്റിക് ആയി റൺ ചെയ്യാൻ (ആവശ്യമെങ്കിൽ മാറ്റാം)
     - cron: '0 */6 * * *'
-  # GitHub-ൽ നിന്ന് മാനുവൽ ആയി 'Run workflow' ബട്ടൺ അമർത്തി എപ്പോൾ വേണമെങ്കിലും റൺ ചെയ്യാം
   workflow_dispatch:
 
 jobs:
@@ -23,76 +21,127 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies
+      - name: Download M3U using IPTV Player Headers
         run: |
-          pip install requests
+          echo "Attempting download with curl and multiple IPTV User-Agents..."
+          
+          URL="https://lazyspace.online/u1u9g1uj.m3u"
+          
+          # List of commonly accepted IPTV client user agents
+          UAS=(
+            "TiviMate/4.7.0"
+            "OTT Navigator/1.6.8.5"
+            "VLC/3.0.18 LibVLC/3.0.18"
+            "okhttp/4.9.2"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+          )
+          
+          SUCCESS=0
+          for UA in "${UAS[@]}"; do
+            echo "Trying with User-Agent: $UA"
+            curl -s -L -k --compressed \
+              -H "User-Agent: $UA" \
+              -H "Accept: */*" \
+              -H "Connection: keep-alive" \
+              "$URL" -o raw_playlist.m3u
+            
+            # Check if file has M3U content and is not an HTML 404 error page
+            if grep -q "#EXTINF" raw_playlist.m3u; then
+              echo "Successfully downloaded playlist with User-Agent: $UA"
+              SUCCESS=1
+              break
+            else
+              echo "Failed or received empty/invalid response with this User-Agent."
+            fi
+          done
 
-      - name: Download and Filter Bigg Boss Channels
+          if [ $SUCCESS -eq 0 ]; then
+            echo "Direct curl failed. Trying Python with session and TLS fallback..."
+            python3 - << 'EOF'
+          import urllib.request
+          import ssl
+          
+          url = "https://lazyspace.online/u1u9g1uj.m3u"
+          ctx = ssl.create_default_context()
+          ctx.check_hostname = False
+          ctx.verify_mode = ssl.CERT_NONE
+          
+          headers = {
+              "User-Agent": "TiviMate/4.7.0",
+              "Accept": "*/*"
+          }
+          try:
+              req = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
+                  data = resp.read().decode('utf-8', errors='ignore')
+                  if "#EXTINF" in data:
+                      with open("raw_playlist.m3u", "w", encoding="utf-8") as f:
+                          f.write(data)
+                      print("Python urllib successfully fetched M3U!")
+                      exit(0)
+          except Exception as e:
+              print(f"Urllib error: {e}")
+          exit(1)
+          EOF
+          fi
+
+      - name: Filter Bigg Boss Channels to BBM Playlist
         run: |
-          python - << 'EOF'
+          python3 - << 'EOF'
           import re
-          import requests
+          import os
 
-          SOURCE_URL = "https://lazyspace.online/u1u9g1uj.m3u"
+          INPUT_FILE = "raw_playlist.m3u"
           OUTPUT_FILE = "bbm.m3u"
 
-          headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          }
-
-          print(f"Downloading playlist from: {SOURCE_URL}")
-          try:
-              response = requests.get(SOURCE_URL, headers=headers, timeout=60)
-              response.raise_for_status()
-              content = response.text
-          except Exception as e:
-              print(f"Error fetching M3U: {e}")
+          if not os.path.exists(INPUT_FILE):
+              print("Input playlist file not found!")
               exit(1)
 
-          lines = content.splitlines()
+          with open(INPUT_FILE, "r", encoding="utf-8", errors="ignore") as f:
+              lines = f.readlines()
+
           extracted_channels = []
           i = 0
 
-          # Regex to match 'Bigg Boss', 'Biggboss', 'BB' etc. (case-insensitive)
-          bb_pattern = re.compile(r'\b(bigg[\s_-]?boss|bb)\b', re.IGNORECASE)
+          # Pattern to match: Bigg Boss, Biggboss, BB Malayalam, BB etc.
+          bb_pattern = re.compile(r'(bigg[\s_-]?boss|\bbb\b)', re.IGNORECASE)
 
           while i < len(lines):
               line = lines[i].strip()
               if line.startswith("#EXTINF"):
-                  # Gather all tags/metadata for this channel
                   entry_lines = [line]
                   i += 1
                   
-                  # Collect any intermediate tags (like #EXTVLCOPT, #EXTHTTP, headers etc.)
+                  # Capture all intermediate tags (license keys, headers, vlc options)
                   while i < len(lines) and lines[i].strip().startswith("#") and not lines[i].strip().startswith("#EXTINF"):
                       if lines[i].strip():
                           entry_lines.append(lines[i].strip())
                       i += 1
                   
-                  # Next non-empty line should be the Stream URL
+                  # Capture the Stream URL
                   if i < len(lines) and lines[i].strip() and not lines[i].strip().startswith("#"):
-                      stream_url = lines[i].strip()
-                      entry_lines.append(stream_url)
+                      entry_lines.append(lines[i].strip())
                       
-                      # Check if any tag or channel title contains Bigg Boss
-                      full_entry_text = "\n".join(entry_lines)
-                      if bb_pattern.search(full_entry_text):
-                          extracted_channels.append(full_entry_text)
+                      full_entry = "\n".join(entry_lines)
+                      # Check if any tag, channel name or URL mentions Bigg Boss
+                      if bb_pattern.search(full_entry):
+                          extracted_channels.append(full_entry)
               i += 1
 
-          print(f"Found {len(extracted_channels)} Bigg Boss channels.")
+          print(f"Total Bigg Boss channels extracted: {len(extracted_channels)}")
 
-          if not extracted_channels:
-              print("No Bigg Boss channels found! Keeping existing file if any.")
-              exit(0)
+          if len(extracted_channels) == 0:
+              print("Warning: No channels matched the Bigg Boss keyword in the source.")
+              exit(1)
 
-          # Write out to bbm.m3u
+          # Save to bbm.m3u
           with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
               f.write("#EXTM3U\n\n")
-              for channel in extracted_channels:
-                  f.write(channel + "\n\n")
+              for ch in extracted_channels:
+                  f.write(ch + "\n\n")
 
-          print(f"Successfully generated {OUTPUT_FILE}")
+          print(f"Successfully created {OUTPUT_FILE}")
           EOF
 
       - name: Commit and Push Changes
@@ -101,9 +150,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add bbm.m3u
           if git diff --staged --quiet; then
-            echo "No changes detected in bbm.m3u."
+            echo "No new updates to commit."
           else
-            git commit -m "Update BBM (Bigg Boss) playlist"
+            git commit -m "Updated BBM (Bigg Boss) playlist"
+            git push
+          fi
             git push
           fi
 
