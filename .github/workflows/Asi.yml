@@ -21,7 +21,7 @@ jobs:
       - name: Download and Update M3U Links
         run: |
           # ഡൗൺലോഡ് ചെയ്ത് Asi.m3u ഫയൽ അപ്ഡേറ്റ് ചെയ്യുന്നു
-          curl -L "http://45.171.64.30:8800/playlist.m3u8" -o Asi.m3u
+          curl -L "http://202.70.146.135:8000/playlist.m3u8" -o Asi.m3u
 
       - name: Commit and Push Changes
         run: |
