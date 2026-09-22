@@ -21,7 +21,7 @@ jobs:
       - name: Download and Update M3U Links
         run: |
           # ഡൗൺലോഡ് ചെയ്ത് Asi.m3u ഫയൽ അപ്ഡേറ്റ് ചെയ്യുന്നു
-          curl -L "https://premiumplugx.com/VIP/pluglist.php" -o Asi.m3u
+          curl -L "https://lazyspace.online/u1u9g1uj.m3u" -o Asi.m3u
 
       - name: Commit and Push Changes
         run: |
