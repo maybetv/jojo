@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Download Updated File
-        run: curl -L "https://raw.githubusercontent.com/Sflex0719/m3u/main/Zio.m3u" -o Jojo.m3u
+        run: curl -L "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u" -o Jojo.m3u
 
       - name: Commit and Push Changes
         run: |
