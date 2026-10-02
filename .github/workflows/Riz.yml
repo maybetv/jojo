@@ -1,0 +1,114 @@
+name: Sync Riz File from External Link
+
+on:
+  schedule:
+    # ഓരോ 30 മിനിറ്റിലും ഓട്ടോമാറ്റിക് ആയി റൺ ചെയ്യുന്നു
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# ഒന്നിലധികം ജോലികൾ ഒരേ സമയം വന്ന് കോൺഫ്ലിക്റ്റ് ഉണ്ടാവാതിരിക്കാൻ
+concurrency:
+  group: sync-riz-file
+  cancel-in-progress: true
+
+jobs:
+  update_riz:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Extract Complete Playlist Data to Riz.m3u
+        shell: python
+        run: |
+          import sys
+          import urllib.request
+
+          # നിങ്ങൾ നൽകിയ കൃത്യമായ സോഴ്സ് പ്ലേലിസ്റ്റ് ലിങ്ക്
+          SOURCE_URL = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
+          OUTPUT_FILE = "Riz.m3u"
+
+          # സെർവറിൽ നിന്ന് മുഴുവൻ ഡാറ്റയും ബ്ലോക്കാവാതെ എടുക്കാനുള്ള യൂസർ-ഏജന്റ്
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+          }
+
+          print(f"Connecting to source: {SOURCE_URL}")
+          req = urllib.request.Request(SOURCE_URL, headers=headers)
+
+          try:
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  raw_content = response.read().decode("utf-8", errors="ignore")
+
+              lines = raw_content.splitlines()
+
+              if not lines:
+                  print("Error: Empty content from source playlist!")
+                  sys.exit(1)
+
+              extracted_lines = []
+              has_extm3u = False
+
+              for line in lines:
+                  cleaned = line.strip()
+                  if not cleaned:
+                      continue
+
+                  # #EXTM3U ഹെഡർ പരിശോധിക്കുന്നു
+                  if cleaned.startswith("#EXTM3U"):
+                      if not has_extm3u:
+                          extracted_lines.append(cleaned)
+                          has_extm3u = True
+                      continue
+
+                  # ClearKey / #KODIPROP ലൈസൻസുകൾ, #EXTHTTP, #EXTVLCOPT ഹെഡറുകൾ, 
+                  # ലോഗോകൾ, ഗ്രൂപ്പുകൾ, സ്ട്രീം ലിങ്കുകൾ എന്നിവ പൂർണ്ണമായി ചേർക്കുന്നു
+                  extracted_lines.append(cleaned)
+
+              if not has_extm3u:
+                  extracted_lines.insert(0, "#EXTM3U")
+
+              # പുതിയ Riz.m3u ഫയലിലേക്ക് മുഴുവൻ ഡാറ്റയും സേവ് ചെയ്യുന്നു
+              with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                  f.write("\n".join(extracted_lines) + "\n")
+
+              print(f"Successfully saved {len(extracted_lines)} lines with all DRM and stream links into {OUTPUT_FILE}.")
+
+          except Exception as e:
+              print(f"Extraction failed: {e}")
+              sys.exit(1)
+
+      - name: Commit and Push Changes Safely
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Non-fast-forward / Rejection എറർ ഒഴിവാക്കാൻ ലേറ്റസ്റ്റ് റിമോട്ട് മാറ്റങ്ങളുമായി അലൈൻ ചെയ്യുന്നു
+          git fetch origin main
+          git reset origin/main
+
+          # പുതിയ Riz.m3u ഫയൽ സ്റ്റേജ് ചെയ്യുന്നു
+          git add Riz.m3u
+
+          # പുതിയ മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം കമ്മിറ്റ് ചെയ്തു പുഷ് ചെയ്യുന്നു
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: full sync Riz.m3u with DRM and headers [skip ci]"
+            git push origin main
+            echo "Successfully updated and pushed Riz.m3u to main branch!"
+          else
+            echo "No updates detected. Riz.m3u is already identical to source."
+          fi
