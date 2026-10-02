@@ -2,14 +2,14 @@ name: Sync Jojo File from External Link
 
 on:
   schedule:
-    # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യാൻ
+    # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യും
     - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
-# ഒരേ സമയം രണ്ട് പ്രാവശ്യം റൺ ആയി കോൺഫ്ലിക്റ്റ് ഉണ്ടാകുന്നത് തടയാൻ
+# ഒന്നിലധികം റണ്ണുകൾ ഒരേ സമയം വന്ന് പരസ്പരം ബ്ലോക്ക് ചെയ്യാതിരിക്കാൻ
 concurrency:
   group: sync-jojo-file
   cancel-in-progress: true
@@ -40,13 +40,13 @@ jobs:
           SOURCE_URL = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
           OUTPUT_FILE = "Jojo.m3u"
 
-          # ഒറിജിനൽ പ്ലേലിസ്റ്റ് സെർവറിൽ നിന്ന് മുഴുവൻ ഡാറ്റയും ബ്ലോക്കാവാതെ എടുക്കാനുള്ള ഹെഡറുകൾ
+          # ഒറിജിനൽ പ്ലേലിസ്റ്റ് സെർവറിൽ നിന്ന് മുഴുവൻ ഡാറ്റയും ബ്ലോക്കാവാതെ എടുക്കാനുള്ള ബ്രൗസർ ഹെഡർ
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
               "Accept": "*/*"
           }
 
-          print(f"Connecting and extracting from: {SOURCE_URL}")
+          print(f"Connecting to source: {SOURCE_URL}")
           req = urllib.request.Request(SOURCE_URL, headers=headers)
 
           try:
@@ -56,7 +56,7 @@ jobs:
               lines = raw_content.splitlines()
 
               if not lines:
-                  print("Error: Empty response received from source!")
+                  print("Error: Empty content from source playlist!")
                   sys.exit(1)
 
               extracted_lines = []
@@ -67,28 +67,28 @@ jobs:
                   if not cleaned:
                       continue
 
-                  # #EXTM3U ഹെഡർ ട്രാക്ക് ചെയ്യുന്നു
+                  # #EXTM3U ഹെഡർ പരിശോധിക്കുന്നു
                   if cleaned.startswith("#EXTM3U"):
                       if not has_extm3u:
                           extracted_lines.append(cleaned)
                           has_extm3u = True
                       continue
 
-                  # #KODIPROP (ClearKey/Widevine/License), #EXTHTTP, #EXTVLCOPT, #EXTINF, URLs
-                  # അടക്കം ഒരു ഡാറ്റയും വിട്ടുപോകാതെ മുഴുവനായി ചേർക്കുന്നു
+                  # #KODIPROP (ClearKey/Widevine/License), #EXTHTTP, #EXTVLCOPT, ചാനൽ ടാഗുകൾ,
+                  # എല്ലാ സ്ട്രീം യുആർഎല്ലുകളും ഒരു മാറ്റവുമില്ലാതെ കൃത്യമായി ആഡ് ചെയ്യുന്നു
                   extracted_lines.append(cleaned)
 
               if not has_extm3u:
                   extracted_lines.insert(0, "#EXTM3U")
 
-              # Jojo.m3u ഫയലിലേക്ക് പൂർണ്ണമായി എഴുതുന്നു
+              # Jojo.m3u ഫയലിലേക്ക് മുഴുവൻ ഡാറ്റയും എഴുതുന്നു
               with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                   f.write("\n".join(extracted_lines) + "\n")
 
-              print(f"Successfully processed {len(extracted_lines)} lines into {OUTPUT_FILE}")
+              print(f"Successfully extracted {len(extracted_lines)} lines with all DRM and stream links.")
 
           except Exception as e:
-              print(f"Failed to fetch and extract: {e}")
+              print(f"Extraction failed: {e}")
               sys.exit(1)
 
       - name: Commit and Push Changes Safely
@@ -96,14 +96,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # 1. റിമോട്ടിലെ ഏറ്റവും പുതിയ മാറ്റങ്ങളുമായി ലോക്കൽ ബ്രാഞ്ച് സിങ്ക് ചെയ്യുന്നു (Non-fast-forward ഒഴിവാക്കാൻ)
+          git fetch origin main
+          git reset origin/main
+
+          # 2. അപ്ഡേറ്റ് ചെയ്ത Jojo.m3u ഫയൽ സ്റ്റേജ് ചെയ്യുന്നു
           git add Jojo.m3u
 
-          # ഫയലിൽ പുതിയ അപ്ഡേറ്റുകൾ ഉണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുക
+          # 3. പുതിയ അപ്ഡേറ്റുകൾ ഉണ്ടെങ്കിൽ മാത്രം പുതിയ കമ്മിറ്റായി പുഷ് ചെയ്യുന്നു
           if ! git diff --cached --quiet; then
             git commit -m "chore: full sync Jojo.m3u with DRM and headers [skip ci]"
-            
-            # മുൻപത്തെ റണ്ണിലെ കോൺഫ്ലിക്റ്റുകൾ വരാതിരിക്കാൻ സുരക്ഷിതമായി പുഷ് ചെയ്യുന്നു
             git push origin main
+            echo "Successfully updated and pushed Jojo.m3u to main branch!"
           else
-            echo "No updates detected. Jojo.m3u is already up-to-date."
+            echo "No updates detected. Jojo.m3u is already identical to source."
           fi
