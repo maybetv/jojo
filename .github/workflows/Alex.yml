@@ -12,8 +12,6 @@ concurrency:
 env:
   SOURCE_URL: "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
   OUTPUT_FILE: "alaxl.m3u"
-  # FILTER_TAG: ""          # optional: set to "jiotv" to filter by tag
-  # FILTER_GROUP: ""        # optional: filter by group-title (e.g. "Entertainment")
 
 jobs:
   update-playlist:
@@ -32,101 +30,16 @@ jobs:
             --connect-timeout 15 \
             --max-time 120 \
             "$SOURCE_URL" \
-            -o raw_playlist.m3u
-          test -s raw_playlist.m3u
-          echo "✅ Source downloaded."
-
-      - name: Process and Validate Playlist (flexible)
-        run: |
-          python3 <<'PY'
-          import re, sys, os, json
-          from pathlib import Path
-
-          source = Path("raw_playlist.m3u")
-          output = Path(os.environ["OUTPUT_FILE"])
-          filter_tag = os.environ.get("FILTER_TAG", "").strip().lower()
-          filter_group = os.environ.get("FILTER_GROUP", "").strip()
-
-          content = source.read_text(encoding="utf-8")
-          if not content.startswith("#EXTM3U"):
-              print("ERROR: Not a valid M3U file.")
-              sys.exit(1)
-
-          raw_blocks = content.split("#EXTINF")[1:]
-          total_raw = len(raw_blocks)
-          print(f"Total #EXTINF entries found: {total_raw}")
-
-          valid_blocks = []
-
-          for raw in raw_blocks:
-              block = "#EXTINF" + raw
-              block = block.strip()
-              if not block:
-                  continue
-
-              # ---- 1. Must have an MPD URL with __hdnea__ ----
-              if not re.search(r"https?://[^\s]+\.mpd[^\s]*\?.*__hdnea__=", block, re.IGNORECASE):
-                  continue
-
-              # ---- 2. Must contain inputstream.adaptive (with or without K/ODIPROP) ----
-              if not re.search(r"inputstream\.adaptive", block, re.IGNORECASE):
-                  continue
-
-              # ---- 3. Must contain manifest_type=mpd ----
-              if not re.search(r"manifest_type\s*=\s*mpd", block, re.IGNORECASE):
-                  continue
-
-              # ---- 4. Must contain license_type=org.w3.clearkey ----
-              if not re.search(r"license_type\s*=\s*org\.w3\.clearkey", block, re.IGNORECASE):
-                  continue
-
-              # ---- 5. Must contain license_key with valid JSON containing "keys" ----
-              # Try to find license_key=... or license_key:...
-              lic_match = re.search(r"license_key\s*[=:]\s*(\{.+?\})(?=\s|$)", block, re.IGNORECASE)
-              if not lic_match:
-                  continue
-              try:
-                  lic_data = json.loads(lic_match.group(1))
-                  if not isinstance(lic_data, dict) or "keys" not in lic_data or not lic_data["keys"]:
-                      continue
-              except json.JSONDecodeError:
-                  continue
-
-              # ---- Optional filters (tag / group) ----
-              if filter_tag and filter_tag not in block.lower():
-                  continue
-              if filter_group:
-                  m = re.search(r'group-title="([^"]+)"', block)
-                  if not m or m.group(1) != filter_group:
-                      continue
-
-              # ---- All checks passed ----
-              valid_blocks.append(block)
-
-          print(f"Entries after validation: {len(valid_blocks)}")
-
-          if not valid_blocks:
-              print("ERROR: No entries passed validation. Check source format or filters.")
-              if raw_blocks:
-                  print("Sample first block (first 500 chars):")
-                  print(raw_blocks[0][:500] + "...")
-              sys.exit(1)
-
-          result = "#EXTM3U\n\n" + "\n\n".join(valid_blocks) + "\n"
-          if result.count("#EXTINF") != len(valid_blocks):
-              print("ERROR: Block count mismatch.")
-              sys.exit(1)
-
-          output.write_text(result, encoding="utf-8")
-          print(f"✅ Playlist saved with {len(valid_blocks)} entries.")
-          PY
+            -o "$OUTPUT_FILE"
+          test -s "$OUTPUT_FILE"
+          echo "✅ Source downloaded successfully."
 
       - name: Verify Output
         run: |
           test -s "$OUTPUT_FILE"
           grep -q "^#EXTM3U" "$OUTPUT_FILE"
           grep -q "#EXTINF" "$OUTPUT_FILE"
-          echo "✅ Output playlist is valid."
+          echo "✅ Output playlist is valid and contains channels."
 
       - name: Commit and Push
         run: |
@@ -134,9 +47,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "$OUTPUT_FILE"
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No changes detected."
             exit 0
           fi
-          git commit -m "chore: update JioTV playlist"
+          git commit -m "chore: update playlist complete data"
           git pull --rebase origin main
           git push origin main
