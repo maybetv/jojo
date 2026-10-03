@@ -9,6 +9,9 @@ concurrency:
   group: playlist-update
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 env:
   SOURCE_URL: "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
   OUTPUT_FILE: "alaxl.m3u"
@@ -45,11 +48,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # റിമോട്ട് റെപ്പോയിലെ പുതിയ മാറ്റങ്ങൾ ആദ്യം ലഭ്യമാക്കുക
+          git pull --rebase origin main || true
+          
           git add "$OUTPUT_FILE"
-          if git diff --cached --quiet; then
+          if git diff --staged --quiet; then
             echo "No changes detected."
             exit 0
           fi
+          
           git commit -m "chore: update playlist complete data"
+          
+          # കോൺഫ്ലിക്റ്റ് ഒഴിവാക്കി സുരക്ഷിതമായി പുഷ് ചെയ്യുക
           git pull --rebase origin main
           git push origin main
