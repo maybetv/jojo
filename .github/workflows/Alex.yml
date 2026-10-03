@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SOURCE_URL: "https://alex4528.site/jplus/playlist.m3u"
+  SOURCE_URL: "https://premiumplugx.com/VIP/pluglist.php"
   OUTPUT_FILE: "alaxl.m3u"
   # FILTER_TAG: ""          # optional: set to "jiotv" to filter by tag
   # FILTER_GROUP: ""        # optional: filter by group-title (e.g. "Entertainment")
