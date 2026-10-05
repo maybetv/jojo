@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 env:
-  SOURCE_URL: "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
+  SOURCE_URL: "https://premiumplugx.top/jiostb/mjelo.php?view=raw"
   OUTPUT_FILE: "alaxl.m3u"
 
 jobs:
