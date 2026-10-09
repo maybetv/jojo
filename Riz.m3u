@@ -4510,6 +4510,9 @@ https://in-mc-flive.fancode.com/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-d
 #EXTINF:-1 tvg-id="4249138_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png", FC: Roshn Saudi League 2026-2027 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791568826~_GO=Generated~acl=/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/*~SessionID=b5ca47f5b75dc08c_fc-app_sportsguruand_87c00e8d-fc7c-42~Signature=AXZsC1D_homjhgIbIA0AuxFrjBLrR7AWTNBasIQ1ObZ5kR6NuCrKShDLSqfjCh8UOOKAoNUzEuzGQdALAmT1jfRwBgsD
+#EXTINF:-1 tvg-id="4247646_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247646_53004_MAG_ESL_FC-Web.png", FC: LALIGA 2026-27 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4247646_english_hls_5208a62c4c30617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791570645~_GO=Generated~acl=/mumbai/4247646_english_hls_5208a62c4c30617_1ta-di_h264/*~SessionID=5073af00038079c6_fc-app_sportsguruand_a94daddc-c68e-44~Signature=AXZsC1DWywQyAa80s5JkHkXuGkJwxeJFsHYn29-z4U5t_kMtDmJjV25sKZX9f2hXEbO-XAyqJg6DntKgEVP0y2ogkgwC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7a290bfb83acdacca7f88e580f9aa7c:67ee621bd9571cd6871d8b5eda34579d
 #EXTINF:-1 tvg-id="amzn1.dv.gti.11c0edbc-8211-459b-880b-d945e2bb824b" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.11c0edbc-8211-459b-880b-d945e2bb824b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 5th Match - Australia Champions vs Pakistan Champions
