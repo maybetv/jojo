@@ -2670,24 +2670,8 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249220_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png", FC: World Championship of Legends, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249220_english_hls_678474ccb382104_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791730434~_GO=Generated~acl=/mumbai/4249220_english_hls_678474ccb382104_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ad70de87-6b36-41~Signature=AXZsC1CX7gMdGfD8PXkd36a-BVrp0JXNyaQeEM3na4lttd94qQzYe_BHptrJSx1e_W_9q2C0fDQXKUR7uszq_BspJr0M
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249220_HIN" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png", FC: World Championship of Legends, 2026 [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791644365~_GO=Generated~acl=/mumbai/4249220_hindi_hls_072755b3e692016_1ta-di_h264/*~SessionID=272945aef9969c92_fc-app_sportsguruand_e6e06606-1c35-46~Signature=AXZsC1DvUuZ2nyUJ0ReOzSoHHcVhnRW2MoGBltEqoVFaTqhQO2xFF-GF8mSpJax_eo4ROwS4oYlB3JHKA8sSDe7JwgcF
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4250100_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg", FC: Emirates D10, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250100_english_hls_3440ff959393565_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791737256~_GO=Generated~acl=/mumbai/4250100_english_hls_3440ff959393565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_edbb349a-602f-4b~Signature=AXZsC1CFks4_jK97kM09vRdG8T2DTUeSUCVNf7FdDnjWF7mfKMe_vjMjmuvqD0Sj1ClSEn1BZuz4n_2A8gr-IUqL0iAI
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249139_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249139_53025_AHS_ITT_FC-Web.png", FC: Roshn Saudi League 2026-2027 [English]
-https://in-mc-flive.fancode.com/mumbai/4249139_english_hls_cb43fdb16638644_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791740892~_GO=Generated~acl=/mumbai/4249139_english_hls_cb43fdb16638644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52868bae-ada7-4e~Signature=AXZsC1CQRPAaIAk9MUdaNbyaz4TH4XV_a9sOApf8zuATVuu6oVUFvCbdBzcNeHgnx2GfzIl5QV_uXa9BqczaSxna53gF
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="amzn1.dv.gti.e82d51fd-b787-4793-ad4a-6d3c95c77148" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e82d51fd-b787-4793-ad4a-6d3c95c77148/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 11th Match - India Champions vs South Africa Champions
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bqekqfhmqa/out/v1/e6ea2895b43e42a899352d58ce860a46/cenc.mpd
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="amzn1.dv.gti.6317851c-ab03-4f6f-a682-e74f4cec7147" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6317851c-ab03-4f6f-a682-e74f4cec7147/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 14th Match - India Champions vs Pakistan Champions
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/arcsdnacsq/out/v1/49bee126f8ff4e09a257124d36f3219c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
