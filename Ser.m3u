@@ -5285,85 +5285,85 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.m3u8?id=3577
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000024&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1260000024" tvg-language="English" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 HD
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000024&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000024&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000034&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1260000034" tvg-language="English" tvg-name="Star Sports Select HD1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select HD1
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000034&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000034&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068247&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068247" tvg-language="English" tvg-name="Star Sports 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068295&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068295" tvg-language="Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068250&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068250" tvg-language="English" tvg-name="Star Sports 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068298&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068298" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068301&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068301" tvg-language="English" tvg-name="Star Sports 3" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 3 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068723&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068723" tvg-language="English" tvg-name="Star Sports Select 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068726&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540068726" tvg-language="English" tvg-name="Star Sports Select 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540073624&token=RiYlIZ&type=jhs
 
 #EXTINF:-1 tvg-id="1540073624" tvg-language="Hindi" tvg-name="Star Sports Khel" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Khel Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=exp=1791763208~acl=%2f*~id=ce6ecdabc53ea306cc7be95fa7a1b49c~data=hdntl~hmac=8a7405e9c3a1f2880ac44abb4e3fee31d750b5c4d6d4bfaa67bac50b175140a1&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 #EXTINF:-1 tvg-id="1540072843" tvg-language="Hindi" tvg-name="TATA IPL TV" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1057/1782285911057-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", TATA IPL TV
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072843&token=RiYlIZ|cookie=hdntl=exp=1791720054~acl=%2f*~id=0fd7ed32910ed144a258aa0438e33b14~data=hdntl~hmac=f0b9d1dd679a05f16f2fdee76e9b8fd17ffdf0d38b1154fb7cc2e9b897bbb28b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072843&token=RiYlIZ|cookie=hdntl=exp=1791763258~acl=%2f*~id=1cd00f67276529c95f0a63f7561333eb~data=hdntl~hmac=cef19b0ea79cc8b84c66fb8aa53682eea9053b24d0f0861166e5f8c350a2e10d&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
 #EXTINF:-1 tvg-id="1540040052" tvg-language="Hindi" tvg-name="Star Sports Cricket Classics" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7739/1782284837739-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", Star Sports Cricket Classics
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540040052&token=RiYlIZ|cookie=hdntl=exp=1791720054~acl=%2f*~id=0fd7ed32910ed144a258aa0438e33b14~data=hdntl~hmac=f0b9d1dd679a05f16f2fdee76e9b8fd17ffdf0d38b1154fb7cc2e9b897bbb28b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540040052&token=RiYlIZ|cookie=hdntl=exp=1791763258~acl=%2f*~id=1cd00f67276529c95f0a63f7561333eb~data=hdntl~hmac=cef19b0ea79cc8b84c66fb8aa53682eea9053b24d0f0861166e5f8c350a2e10d&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
 #EXTINF:-1 tvg-id="1260009749" tvg-language="English" tvg-name="Fit India Campaign Launch" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1357/551357-h" CATCH-UP-FAILED="null" group-title="Jhs Sports", Fit India Campaign Launch
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1260009749&token=RiYlIZ|cookie=hdntl=exp=1791720054~acl=%2f*~id=0fd7ed32910ed144a258aa0438e33b14~data=hdntl~hmac=f0b9d1dd679a05f16f2fdee76e9b8fd17ffdf0d38b1154fb7cc2e9b897bbb28b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1260009749&token=RiYlIZ|cookie=hdntl=exp=1791763258~acl=%2f*~id=1cd00f67276529c95f0a63f7561333eb~data=hdntl~hmac=cef19b0ea79cc8b84c66fb8aa53682eea9053b24d0f0861166e5f8c350a2e10d&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
 #EXTINF:-1 tvg-id="1540072704" tvg-language="Hindi" tvg-name="ICC Champions TV" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8651/1782285268651-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", ICC Champions TV
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072704&token=RiYlIZ|cookie=hdntl=exp=1791720054~acl=%2f*~id=0fd7ed32910ed144a258aa0438e33b14~data=hdntl~hmac=f0b9d1dd679a05f16f2fdee76e9b8fd17ffdf0d38b1154fb7cc2e9b897bbb28b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072704&token=RiYlIZ|cookie=hdntl=exp=1791763258~acl=%2f*~id=1cd00f67276529c95f0a63f7561333eb~data=hdntl~hmac=cef19b0ea79cc8b84c66fb8aa53682eea9053b24d0f0861166e5f8c350a2e10d&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
 #EXTINF:-1 tvg-id="1540031361" tvg-language="Hindi" tvg-name="MI vs CSK" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4921/1787510934921-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", MI vs CSK
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=exp=1791720054~acl=%2f*~id=0fd7ed32910ed144a258aa0438e33b14~data=hdntl~hmac=f0b9d1dd679a05f16f2fdee76e9b8fd17ffdf0d38b1154fb7cc2e9b897bbb28b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=exp=1791763258~acl=%2f*~id=1cd00f67276529c95f0a63f7561333eb~data=hdntl~hmac=cef19b0ea79cc8b84c66fb8aa53682eea9053b24d0f0861166e5f8c350a2e10d&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29&origin=https://www.hotstar.com&Referer=https://www.hotstar.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -5377,6 +5377,30 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
+
+#EXTINF:-1 tvg-id="4249663_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg", FC: Sheffield Shield, 2026/27 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791761117~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a66a72f5-839e-44~Signature=AXZsC1AH-y3a3Wbnd1H9B4SW5Xmj8nZKqovTzfE2e2DGUYcermM4n0e6liA0bmMmP-a8UtWZ3XoBHLeyzAD3UbtE5rAA
+
+#EXTINF:-1 tvg-id="1090547698_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",Sony: UFC Fight Night - Allen vs Duncan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791723256~acl=/*~id=03272460485992994147152571251523~hmac=d2ff293be722eb6eb3f6144433f71aaee4695689adb60a40343381fe08b9a2df
+
+#EXTINF:-1 tvg-id="1090547698_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",Sony: UFC Fight Night - Allen vs Duncan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791723256~acl=/*~id=03272460485992994147152571251523~hmac=d2ff293be722eb6eb3f6144433f71aaee4695689adb60a40343381fe08b9a2df
+
+#EXTINF:-1 tvg-id="1090547698_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",Sony: UFC Fight Night - Allen vs Duncan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791723256~acl=/*~id=03272460485992994147152571251523~hmac=d2ff293be722eb6eb3f6144433f71aaee4695689adb60a40343381fe08b9a2df
+
+#EXTINF:-1 tvg-id="1090547698_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",Sony: UFC Fight Night - Allen vs Duncan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791723256~acl=/*~id=03272460485992994147152571251523~hmac=d2ff293be722eb6eb3f6144433f71aaee4695689adb60a40343381fe08b9a2df
+
+#EXTINF:-1 tvg-id="1090547698_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",Sony: UFC Fight Night - Allen vs Duncan
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791723256~acl=/*~id=03272460485992994147152571251523~hmac=d2ff293be722eb6eb3f6144433f71aaee4695689adb60a40343381fe08b9a2df
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
