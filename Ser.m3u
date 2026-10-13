@@ -5,7 +5,7 @@ x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz"
 Playlist-Logo="https://yt3.googleusercontent.com/ytc/AIdro_lKULdxBE4H3HJlomG_vs3XMDk6FnCQA6zgO0EVZH5Kvg=s900-c-k-c0x00ffffff-no-rj"
 
 
-#EXTM3U billed-till="1792162986" billed-msg="Join DenverIsAlivee"
+#EXTM3U billed-till="1793026986" billed-msg="Join DenverIsAlivee"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=144&token=RiYlIZ
 #EXTINF:-1 tvg-id="144" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Entertainment",Colors HD
@@ -5382,101 +5382,23 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791989635~_GO=Generated~acl=/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8b825f8e-6282-44~Signature=AZJsJWbdfREV4LlncNKXCNuYgPQ2Hukq9qlqqnZGdAdwfSNhfoqdiWPQYzWOvF221t_PXsZy_A4nJiOOQuifX28Y5FEE
 
-#EXTINF:-1 tvg-id="4249231_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249231_53069_IAC_WIC_FC-Web_1790764441502.png", FC: World Championship of Legends, 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249231_english_hls_8d8721ea9f48444_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791989637~_GO=Generated~acl=/mumbai/4249231_english_hls_8d8721ea9f48444_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7b74ed7-7cc3-40~Signature=AZJsJWZXE5eZ1gPGfKC9slJ5iugNpoimXSRElX5AZ-Da5NefkXFPudcJqdxGaUhCwDTcvytFZUSaFG1S8ZJT3rJ8i7QM
-
-#EXTINF:-1 tvg-id="4249231_HIN" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249231_53069_IAC_WIC_FC-Web_1790764441502.png", FC: World Championship of Legends, 2026 [Hindi]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249231_hindi_hls_7b3fc2742084058_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791903567~_GO=Generated~acl=/mumbai/4249231_hindi_hls_7b3fc2742084058_1ta-di_h264/*~SessionID=2ec0032828164763_fc-app_sportsguruand_f1747afc-3f6e-45~Signature=AZJsJWbIwE6m7-X-cqqeY7KPpEpk51PkEmnGNJHo4L1-x4d4_hmJbcHzXPWRbZmTYkY47KP_n0rUc1Cf0MHFeCDbHEgM
-
-#EXTINF:-1 tvg-id="4248975_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg", FC: AFC Champions League Two 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE
-
-#EXTINF:-1 tvg-id="4248702_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248702_53053_SDD_AHS_FC-WEB.jpg", FC: AFC Champions League Elite 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4248702_english_hls_b674b87f6a28573_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791992719~_GO=Generated~acl=/mumbai/4248702_english_hls_b674b87f6a28573_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_40580034-9c0d-4e~Signature=AZJsJWZp7RKFwYHU9jjeOvywSTQNd2B8zqScERZOOfqvE-2y0OlgemwgEDro5N9doqrz_wfAH-QzTf19Os6RA8AQx3ID
-
-#EXTINF:-1 tvg-id="4248976_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248976_53057_ALS_HUS_fc-web_1789025065281.jpg", FC: AFC Champions League Two 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4248976_english_hls_e2a31aa5c526417_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791992720~_GO=Generated~acl=/mumbai/4248976_english_hls_e2a31aa5c526417_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_961a523c-7f67-41~Signature=AZJsJWZKZz0TXR-C9H3Bimws_Vx1IHResQsE6ICgxvJzaOjomUX-Wv-n8Eyt3bGfrbNRZkY_jG4SEXvPAIKBnWu7ly4F
-
-#EXTINF:-1 tvg-id="1090547794_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",Sony: Namma Bengaluru Smashers vs Delhi Dynamites
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a66ae8ce3f5446d110eb2445e1abeac:b79d94ff5201b1c22f4e3db30f663f1b
+#EXTINF:-1 tvg-id="Amz.4441347499108124776340189" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791952779~acl=/*~id=72018549767045840579537316114200~hmac=08eabbd42aa6e0c90ee280fa5679f4cb875f04f3cb4030f7c1df3168f8e63275
-
-#EXTINF:-1 tvg-id="1090547794_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",Sony: Namma Bengaluru Smashers vs Delhi Dynamites
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791952779~acl=/*~id=72018549767045840579537316114200~hmac=08eabbd42aa6e0c90ee280fa5679f4cb875f04f3cb4030f7c1df3168f8e63275
-
-#EXTINF:-1 tvg-id="1090547842_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",Sony: Lens vs Sporting CP - MD2
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791952779~acl=/*~id=72018549767045840579537316114200~hmac=08eabbd42aa6e0c90ee280fa5679f4cb875f04f3cb4030f7c1df3168f8e63275
-
-#EXTINF:-1 tvg-id="1090547843_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",Sony: Sabah vs Slavia Praha
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791952779~acl=/*~id=72018549767045840579537316114200~hmac=08eabbd42aa6e0c90ee280fa5679f4cb875f04f3cb4030f7c1df3168f8e63275
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2528dfb7addb69f84ffb934a8e11272c:06a9dfe86ee87d043ea64dbfae834c27
-#EXTINF:-1 tvg-id="amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
+#KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
+#EXTINF:-1 tvg-id="Amz.7187884055098536919728148" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/spqdev7qkc/out/v1/f8e02d8a47fc435b99ae01f8b9e70956/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=751e369a7084d6c879f1b2e15910ef6a:68b907d3a3d542584e586f37580283cd
-#EXTINF:-1 tvg-id="amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force
+#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
+#EXTINF:-1 tvg-id="Amz.9319984723997731800745353" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbm2cang89/out/v1/f9d41a567a95405096eadd8a1476d69c/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf8bc09bbf7434dd19fc1f4953bc2eec:7c9eb9a8d62eaeb982cc62bc6f186a25
-#EXTINF:-1 tvg-id="amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkyre5dmr5/out/v1/a618c2f0a62a45a0b2b011978d5a4728/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a261f59266c920881f21b55b87ed476:59be43f498f7011e556ce1bcf529f2b4
-#EXTINF:-1 tvg-id="amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aacdta6x9b/out/v1/dc16e5f9e88b4e5f8865cc48b4e182bd/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-#EXTINF:-1 tvg-id="Amz.4860713219974194836357484" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
-#EXTINF:-1 tvg-id="Amz.7924646794171937267598273" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-#EXTINF:-1 tvg-id="Amz.8055111507594234204141794" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/5/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
-#EXTINF:-1 tvg-id="Amz.2552617401934484935682243" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcf31af4fb00661a299fdd2769191c3e:27227e5d96926d6b3e6440c3b99d6ab4
-#EXTINF:-1 tvg-id="Amz.5059788841879239856928891" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
-#EXTINF:-1 tvg-id="Amz.9706329280236308649696599" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
