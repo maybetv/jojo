@@ -7839,13 +7839,13 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1090548084_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",Sony: Lyon vs Crystal Palace - MD2
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792127574~acl=/*~id=31604550715443106376416667018003~hmac=f021e454ddec49f43e916fe39e1ec5a6ac775440b2e06760f788a225eeae7100
+#EXTINF:-1 tvg-id="4250202_ENG" group-title="Live events" tvg-logo="https://images.fancode.com/aig/match/v1791789693985/4250202_CASACARDS_APP.png", FC: League One 2026-27 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250202_english_hls_66b43b640016858_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792177551~_GO=Generated~acl=/mumbai/4250202_english_hls_66b43b640016858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_24df9f31-6809-40~Signature=AZJsJWbslvlhRVpwtNeRma9sawKQs10JNb62tSW_cvRJtVRdl8E95J2gbv_Svxs8gE_DoUR_bns0BcvIpn8ibt5Hh28G
 
-#EXTINF:-1 tvg-id="1090548113_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",Sony: Salzburg vs Milan
+#EXTINF:-1 tvg-id="1090548315_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg",Sony: Celta vs Juventus
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792127574~acl=/*~id=31604550715443106376416667018003~hmac=f021e454ddec49f43e916fe39e1ec5a6ac775440b2e06760f788a225eeae7100
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792139713~acl=/*~id=90314582607019150052325257532752~hmac=85a2bfdc75d313d4d9dd0eda46f64a4f23eadc56db8890df0f07a3a592acefa4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
