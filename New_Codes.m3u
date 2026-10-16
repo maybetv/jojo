@@ -3847,8 +3847,18 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/doraemon.m3u8
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4250221_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg", FC: GSL Championship 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250221_english_hls_71c004ccba91429_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792224976~_GO=Generated~acl=/mumbai/4250221_english_hls_71c004ccba91429_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3fd71288-1d84-4d~Signature=AZJsJWZEolWBROjK56E6SxESEEdvbo63QKbQei4x3vbvfKfuG241V-yhiibTkUr-XNVYrBWkB4R5zd2DpBDaKmQ6u_4K
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4248845_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png", FC: ATP Masters - Rolex Shanghai Masters [English]
+https://in-mc-flive.fancode.com/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792218917~_GO=Generated~acl=/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8d0bb8e5-0ef4-42~Signature=AZJsJWYx0E1ybIJt7hWXPC9Io5q7VXiYDUvx_Dr-ZG8V8xFUAcExuqZarSBMeZkkEQv21ZzBE-HNAApoDzpvPbtFp-0I
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090548552_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg",Sony: DP World India Championship - Day 2
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180872~acl=/*~id=43378302133711539439246628574294~hmac=32758c9600ad09d5f89461fdadd8f111a46b5f40714e2039e233bac2b99deffa
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="1090548548_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",Sony: SJM Macao Open - Day 2
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180872~acl=/*~id=43378302133711539439246628574294~hmac=32758c9600ad09d5f89461fdadd8f111a46b5f40714e2039e233bac2b99deffa
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
