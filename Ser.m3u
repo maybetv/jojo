@@ -7831,57 +7831,17 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792321253~_GO=Generated~acl=/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_92e3a1f2-70ec-47~Signature=AZJsJWazDda1JN-03PivhceruiMxAc3nX-JZ8PaBnr-UeQiQXFPE6jzdN4oI6SuIvoeJ2gbJOHPVOArkrrho_vBpG_sH
 
-#EXTINF:-1 tvg-id="4250211_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg", FC: Jersey tour of Uganda A 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306089~_GO=Generated~acl=/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8e566793-4fcc-45~Signature=AZJsJWaSaQFKUml6W25sVqxGwFWlD9tOoCnJtzSNKO3xMftliu9wZTeiijMjCfT9yF-g5Npgy_AVgtlaNLNE1SdazA4C
-
-#EXTINF:-1 tvg-id="4250228_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg", FC: GSL Championship 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD
-
-#EXTINF:-1 tvg-id="4249595_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg", FC: EFL Championship 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792322465~_GO=Generated~acl=/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6f406885-dd76-4b~Signature=AZJsJWbloEsrbaFkfG_LHJyo0MwfuACERF36uPW1MonyP3Zig0y0ZrYYrA92QD2YWtvBDNa6ENUkf1rGsn0sb1hsu7ML
-
-#EXTINF:-1 tvg-id="4249193_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg", FC: Barclays Women's Super League 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249193_english_hls_cd9dc0f84b20122_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792323079~_GO=Generated~acl=/mumbai/4249193_english_hls_cd9dc0f84b20122_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_11b63c94-68f3-43~Signature=AZJsJWZIr60x2fN8ovP3-JMYbVlCUeC4zoRuhzcK2N8UgeKic8fhO1lcheV-z6KKP_VvxrxeUrDYcrNiOhPZTdgBIxwF
-
 #EXTINF:-1 tvg-id="4250147_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png", FC: BWF Super 750 - Denmark Open 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
+https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792336043~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3ba45c73-fc7b-43~Signature=AZJsJWa0XxP2mD2O1xras_04rTxqAFAUNccKbirji-zx3-L8XC8j4XsM8og69YXw26BoNLUnGKomNbgZZqauRN-5kncK
 
-#EXTINF:-1 tvg-id="1090548893_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",Sony: Inter Kashi vs Odisha FC
+#EXTINF:-1 tvg-id="1090548711_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg",Sony: Ayodhya Garjan vs Delhi Dynamites - Super 6
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792298517~acl=/*~id=05921866000694525068874586712243~hmac=2cc56f5bef3c05833ccd459bb0dfc7de164ebf2f3b0b527852a36f8f5e533668
 
-#EXTINF:-1 tvg-id="1090548893_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg",Sony: Inter Kashi vs Odisha FC
+#EXTINF:-1 tvg-id="1090548711_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg",Sony: Ayodhya Garjan vs Delhi Dynamites - Super 6
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548712_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",Sony: Bengaluru FC vs Chennaiyin FC
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548712_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",Sony: Bengaluru FC vs Chennaiyin FC
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548712_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",Sony: Bengaluru FC vs Chennaiyin FC
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548711_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",Sony: Haryana Hurricanes vs Emperia Marathas - Super 6
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548711_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",Sony: Haryana Hurricanes vs Emperia Marathas - Super 6
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
-#EXTINF:-1 tvg-id="1090548715_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg",Sony: Mighty Marathas vs Kakatiya Knights
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
+https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792298517~acl=/*~id=05921866000694525068874586712243~hmac=2cc56f5bef3c05833ccd459bb0dfc7de164ebf2f3b0b527852a36f8f5e533668
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3660031728c59269fbb5bc7338f7725b:499fa4283e9b01728b63db7d1a788d07
@@ -7900,6 +7860,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oxtnldxcmw/
 #EXTINF:-1 tvg-id="Amz.6902057030338417139996318" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
 #EXTVLCOPT:http-user-agent=Denver1769
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
+#EXTINF:-1 tvg-id="Amz.3971758271511000911240724" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: West Indies tour of India 2026 - 5th T20I - India vs West Indies
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
