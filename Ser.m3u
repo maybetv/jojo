@@ -7827,23 +7827,15 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3660031728c59269fbb5bc7338f7725b:499fa4283e9b01728b63db7d1a788d07
-#EXTINF:-1 tvg-id="amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5p782imwst/out/v1/370d895ccb964deb94cbd783779dfbdb/cenc.mpd
+#EXTINF:-1 tvg-id="4249798_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249798_53097_MR-W_HB-W_FC-Web_1791883788092.png", FC: T20 Spring Challenge, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792363953~_GO=Generated~acl=/mumbai/4249798_english_hls_709c1fbb024496_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3a40c8d9-5e16-43~Signature=AZJsJWbLv-WDD9r_RoxjfTlK0ULozoAviIjwFPuCIti9BhsFLxQPGki7kNX6Y-vWCIXpA38OQ_x9bmkOpG4oQppGsSgD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cdee58acf7a7290ec19a191e317f55a:517d32ed8f1fe032bd44ccbb30f6bfe7
 #EXTINF:-1 tvg-id="amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: West Indies tour of India 2026 - 5th T20I - India vs West Indies
 #EXTVLCOPT:http-user-agent=Denver1769
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oxtnldxcmw/out/v1/97cefe234d314c18b723cfc89df20e6e/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
-#EXTINF:-1 tvg-id="Amz.6902057030338417139996318" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
