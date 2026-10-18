@@ -3842,26 +3842,32 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249838_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg", FC: A-League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH
+#EXTINF:-1 tvg-id="4249782_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png", FC: Australia tour of South Africa, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4250161_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-Zealand-T20I-Series-old-match-card.png", FC: New Zealand Women tour of Australia, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792397278~_GO=Generated~acl=/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62ec7387-91b3-40~Signature=AZJsJWavjFSha0VhnPI5ynMDHZvg3jColI8owuK-VLFVLmMxmlvEfxLomqsxUrT3iSWNOWPjuf4E8MUevIacs1XvaLQD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4250212_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg", FC: Jersey tour of Uganda A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4250230_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg", FC: GSL Championship 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4249801_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png", FC: T20 Spring Challenge, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792396067~_GO=Generated~acl=/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_01e76419-f699-4a~Signature=AZJsJWYGUny4HIIO0DKQT4aBtKMNmzUqYZBAp1FvrM2sMdHh76y4RDPxsNPRwxL6vg1NBpJzxG50Z_v8_ahSXiM7TS4G
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548916_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",Sony: UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792334845~acl=/*~id=64219639080528577971607455417577~hmac=cc4c353bfd49f74d892dbb60ca676a679516dc94e52e87fd229d270a4595c26b
+#EXTINF:-1 tvg-id="1090548740_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",Sony: DP World India Championship - Day 4
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792353627~acl=/*~id=54586448493857989945359862660483~hmac=e575b60887d10cc6398ee0b2f684c1ae4f1b5ca85d652068a7efa40047479bd1
 #EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548916_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",Sony: UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2094587/UFC_UFCF1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792334845~acl=/*~id=64219639080528577971607455417577~hmac=cc4c353bfd49f74d892dbb60ca676a679516dc94e52e87fd229d270a4595c26b
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548916_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",Sony: UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792334845~acl=/*~id=64219639080528577971607455417577~hmac=cc4c353bfd49f74d892dbb60ca676a679516dc94e52e87fd229d270a4595c26b
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548916_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",Sony: UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2094589/UFC_UFCF1710/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792334845~acl=/*~id=64219639080528577971607455417577~hmac=cc4c353bfd49f74d892dbb60ca676a679516dc94e52e87fd229d270a4595c26b
-#EXTVLCOPT:http-user-agent=Denver1769
-#EXTINF:-1 tvg-id="1090548916_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",Sony: UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792334845~acl=/*~id=64219639080528577971607455417577~hmac=cc4c353bfd49f74d892dbb60ca676a679516dc94e52e87fd229d270a4595c26b
+#EXTINF:-1 tvg-id="1090548739_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg",Sony: SJM Macao Open - Day 4
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353627~acl=/*~id=54586448493857989945359862660483~hmac=e575b60887d10cc6398ee0b2f684c1ae4f1b5ca85d652068a7efa40047479bd1
 #EXTVLCOPT:http-user-agent=Denver1769
 #EXTINF:-1 tvg-id="amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: West Indies tour of India 2026 - 5th T20I - India vs West Indies
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oxtnldxcmw/out/v1/97cefe234d314c18b723cfc89df20e6e/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhyhrrdj6d/out/v1/2ee458edfb9d4f56a4c517f22bf21ad9/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
