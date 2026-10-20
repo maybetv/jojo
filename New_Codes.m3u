@@ -3842,17 +3842,32 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|cookie=hdntl=
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249665_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg", FC: Sheffield Shield, 2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056359591_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792538087~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056359591_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f11340ea-5c42-41~Signature=ASgJGVC0Se10BiQeCJIKe8BiCfdk7MEqYzCJ1Jr_e-11yNrkcM6YuL-DyHh_hr3yZXJPI8bQSua7q8cqfIPF8_xrSmoL
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249666_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg", FC: Sheffield Shield, 2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792539904~_GO=Generated~acl=/mumbai/4249666_english_hls_b5f24432ee17869_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f7cea390-4de4-4f~Signature=ASgJGVBqagI17obaNYsgasMouHcw_CahJrseX8wq2FKtt1MMwKNr5Mzgo31XjgmB76J9W2kBnMTPqEOx-rS90-zRhxoG
+#EXTINF:-1 tvg-id="4249782_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png", FC: Australia tour of South Africa, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTINF:-1 tvg-id="4249667_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg", FC: Sheffield Shield, 2026/27 [English]
 https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8092749_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792548991~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8092749_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0fd2ae7-1258-41~Signature=ASgJGVAnkjN4Z6miapK5sBq-KIjhhmhiQd7VTT4P2Z6AMLeu81_sF5JEQ1I8h1PqN8ChU6kCnHX2KBCaorRbbixzJ_4J
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTINF:-1 tvg-id="4249803_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg", FC: T20 Spring Challenge, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249803_english_hls_92b4be285d73803_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792552626~_GO=Generated~acl=/mumbai/4249803_english_hls_92b4be285d73803_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_01f8052e-47b6-43~Signature=ASgJGVByzm0JhKPxhJm8k_OOG0pRjfKUmU9n5pZmsNDOuBDS44z-auz59Nd3RwhkbSBjUdCr-sl8HE0FE5iJJRvkZLgI
+#EXTINF:-1 tvg-id="4250162_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png", FC: New Zealand Women tour of Australia, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792570182~_GO=Generated~acl=/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3e8d9385-c1e2-43~Signature=ASgJGVA2W5rx-dvWTdIQ9NQmdNv0u_i4yhsMHD9f4aGWFLp30bi6ptCdvlVj5p0JAa2zgUXtJuPHKbTdf5bmJchV5zYP
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4249754_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792403588984.png", FC: ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792570790~_GO=Generated~acl=/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0172cff9-b16f-44~Signature=ASgJGVCTw22cjkCBM-odz7MTwDWwTLSITSKtUhmyK6WriRvctTT68gU310ocCOCkZ6YzYwpUvsvPh3nnOTlKtIOA3gAC
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="4249608_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png", FC: ATP 250 - Almaty Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792563514~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bf9d79af-590d-4c~Signature=ASgJGVBbzn1rjyL8LkA3Kr1Oih3ShXxhm2c1o8pI7r40xfxfxtdMbjyBuyi5stZs_OURItI1G-BY-ZWNzTQfp5kjHnAH
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/to25hceaip/out/v1/35d6b3882f6847f79c0fdd53d88ac54a/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pqilu4mqdo/out/v1/5dec7bdd031d478fbd3546ef43c99f26/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="amzn1.dv.gti.2c58ef14-8c26-4d0c-b185-8fc6f476bea3" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2c58ef14-8c26-4d0c-b185-8fc6f476bea3/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: New Zealand Women tour of Australia 2026 - 2nd T20I - Australia Women vs New Zealand Women
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxwneovx48/out/v1/eccb3fcef8604ab1816147ec23c70045/cenc.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+#EXTINF:-1 tvg-id="Amz.1442475216365372095410688" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
