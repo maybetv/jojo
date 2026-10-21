@@ -6052,578 +6052,578 @@ https://game.playindia.fun/Jtv/oops.m3u8?id=sliv_821&token=RiYlIZ%7CUser-Agent=M
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000002&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000002" tvg-language="Kannada" tvg-name="Star Suvarna" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Suvarna
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000002&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000002&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000004&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000004" tvg-language="Malayalam" tvg-name="Asianet Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Asianet Plus
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000004&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000004&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000006&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000006" tvg-language="Marathi" tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Pravah
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000006&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000006&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000008&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000008" tvg-language="Telugu" tvg-name="Star Maa Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Maa Movies
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000008&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000008&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000012&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000012" tvg-language="Malayalam" tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Asianet
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000012&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000012&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000014&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000014" tvg-language="Bengali" tvg-name="Star Jalsha" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Jalsha
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000014&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000014&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000016&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000016" tvg-language="Telugu" tvg-name="Star Maa" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Maa
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000016&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000016&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000017&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000017" tvg-language="Hindi" tvg-name="Star Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Plus
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000017&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000017&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000018&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000018" tvg-language="Tamil" tvg-name="Star Vijay" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Vijay
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000018&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000018&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000019&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000019" tvg-language="Telugu" tvg-name="Star Maa Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Maa Gold
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000019&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000019&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000020&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000020" tvg-language="Hindi" tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Utsav
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000020&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000020&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000024&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000024" tvg-language="English" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000024&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000024&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000025&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000025" tvg-language="Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Hindi
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000025&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000025&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000031&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000031" tvg-language="Hindi" tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Bharat
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000031&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000031&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000033&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000033" tvg-language="English" tvg-name="Star Sports 2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000033&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000033&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000034&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000034" tvg-language="English" tvg-name="Star Sports Select HD1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select HD1
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000034&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000034&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000035&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000035" tvg-language="English" tvg-name="Star Sports 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000035&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000035&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000039&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000039" tvg-language="Bengali" tvg-name="Star Jalsha Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Jalsha Movies
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000039&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000039&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000040&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000040" tvg-language="Hindi" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Gold
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000040&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000040&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000042&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000042" tvg-language="Malayalam" tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Asianet Movies
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000042&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000042&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1260000043&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1260000043" tvg-language="Kannada" tvg-name="Star Suvarna Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Suvarna Plus
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1260000043&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1260000043&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068247&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068247" tvg-language="English" tvg-name="Star Sports 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068295&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068295" tvg-language="Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Hindi Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068250&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068250" tvg-language="English" tvg-name="Star Sports 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068298&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068298" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Hindi Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068301&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068301" tvg-language="English" tvg-name="Star Sports 3" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 3 Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068723&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068723" tvg-language="English" tvg-name="Star Sports Select 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 1 Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068726&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068726" tvg-language="English" tvg-name="Star Sports Select 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540073624&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540073624" tvg-language="Hindi" tvg-name="Star Sports Khel" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Khel Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068292&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068292" tvg-language="Hindi" tvg-name="Colors" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Colors Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068292&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068292&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068271&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068271" tvg-language="Bengali" tvg-name="Colors Bangla Cinema" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Colors Bangla Cinema Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068271&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068271&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068307&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068307" tvg-language="Hindi" tvg-name="Colors Cineplex" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Colors Cineplex Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068307&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068307&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540069651&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540069651" tvg-language="Odia" tvg-name="Star Kiran" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7412/1782282697412-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Kiran Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540069651&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540069651&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068340&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068340" tvg-language="Tamil" tvg-name="Vijay Super" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1929/1782285031929-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Vijay Super Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068340&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068340&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068768&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068768" tvg-language="Marathi" tvg-name="Colors Marathi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5106/1782291335106-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Colors Marathi Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068768&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068768&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068304&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068304" tvg-language="Hindi" tvg-name="Star Gold" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6567/1784547656567-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Gold Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068304&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068304&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540075053&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540075053" tvg-language="Hindi" tvg-name="Disney Channel HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Kids", Disney Channel HD Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540075053&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540075053&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540075047&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540075047" tvg-language="Hindi" tvg-name="Super Hungama" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6961/1785252356961-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Kids", Super Hungama Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540075047&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540075047&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068262&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068262" tvg-language="Malayalam" tvg-name="Asianet Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Asianet Movies Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068262&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068262&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068714&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068714" tvg-language="Malayalam" tvg-name="Asianet Plus" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9207/1782286239207-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Asianet Plus Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068714&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068714&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068328&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068328" tvg-language="Kannada" tvg-name="Colors Kannada Cinema" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Colors Kannada Cinema Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068328&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068328&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068316&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068316" tvg-language="Kannada" tvg-name="Colors Kannada" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Colors Kannada Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068316&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068316&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068702&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068702" tvg-language="Hindi" tvg-name="Colors Rishtey" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9097/1782290579097-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Colors Rishtey Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068702&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068702&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068720&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068720" tvg-language="Kannada" tvg-name="Colors Super" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6181/1782290986181-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Colors Super Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068720&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068720&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068274&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068274" tvg-language="Bengali" tvg-name="Jalsha Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Jalsha Movies Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068274&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068274&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068286&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068286" tvg-language="Telugu" tvg-name="Maa Movies" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Maa Movies Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068286&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068286&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068253&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068253" tvg-language="Hindi" tvg-name="Nick" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Kids", Nick Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068253&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068253&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540074047&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540074047" tvg-language="English" tvg-name="Nick HD+" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Kids", Nick HD+ Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540074047&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540074047&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068791&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068791" tvg-language="Hindi" tvg-name="Sonic" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Kids", Sonic Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068791&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068791&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068696&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068696" tvg-language="Hindi" tvg-name="Star Bharat" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8704/1782288318704-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Bharat Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068696&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068696&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540057051&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540057051" tvg-language="Hindi" tvg-name="Star Bharat HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/pp/2404/732404-h-6ab8352c41cf" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Bharat HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540057051&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540057051&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540057030&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540057030" tvg-language="Hindi" tvg-name="Star Gold HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9306/1763725289306-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Movies", Star Gold HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540057030&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540057030&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540057072&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540057072" tvg-language="Bengali" tvg-name="Star Jalsha HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/pp/2404/732404-h-6ab8352c41cf" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Jalsha HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540057072&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540057072&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068277&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068277" tvg-language="Telugu" tvg-name="Star Maa" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1759/1782290731759-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Maa Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068277&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068277&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068289&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068289" tvg-language="Hindi" tvg-name="Star Plus" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Plus Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068289&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068289&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068310&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068310" tvg-language="Marathi" tvg-name="Star Pravah" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Pravah Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068310&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068310&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068319&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068319" tvg-language="Kannada" tvg-name="Star Suvarna" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6396/1782290646396-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Suvarna Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068319&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068319&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540057075&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540057075" tvg-language="Kannada" tvg-name="Star Suvarna HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/pp/2404/732404-h-6ab8352c41cf" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Suvarna HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540057075&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540057075&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068693&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068693" tvg-language="Hindi" tvg-name="Star Utsav" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9181/1782291429181-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Utsav Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068693&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068693&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068331&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540068331" tvg-language="Tamil" tvg-name="Star Vijay" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Vijay Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068331&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540068331&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540057060&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540057060" tvg-language="Tamil" tvg-name="Star Vijay HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/pp/2404/732404-h-6ab8352c41cf" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", Star Vijay HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540057060&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540057060&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540075041&token=RiYlIZ&type=jhs
 #EXTINF:-1 tvg-id="1540075041" tvg-language="Hindi" tvg-name="MTV" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8633/1786020488633-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Entertainment", MTV Digital
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540075041&token=RiYlIZ|Cookie=hdntl=exp=1792584006~acl=%2f*~id=ce296b7b92b8309226d45317bedf02fe~data=hdntl~hmac=a65d5516e5f95fc32d1baaae3e2d379ba68f4a19e0d6f24099e4c1d9133c8698&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28
+https://game.playindia.fun/Jtv/jhs.mpd?id=1540075041&token=RiYlIZ|Cookie=hdntl=exp=1792627206~acl=%2f*~id=1bda848a91e61555b45afc1d6c4c7da4~data=hdntl~hmac=250b55dc7d3ac1ccd1004ff7ab431b346f7b99a5670bb9caeacf8e4d4e843a28&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="3694429" tvg-language="Hindi" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3694429&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3694429&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387951" tvg-language="Hindi" tvg-name="Rishtey" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Rishtey
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387951&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387951&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3774158" tvg-language="Bengali" tvg-name="Colors Bengla HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Bengla HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3774158&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3774158&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3774156" tvg-language="Kannada" tvg-name="Colors Kannada HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Kannada HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3774156&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3774156&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387948" tvg-language="Marathi" tvg-name="Colors Marathi HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387948&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387948&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3774146" tvg-language="Tamil" tvg-name="Colors Tamil HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Tamil HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3774146&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3774146&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3774144" tvg-language="Gujarati" tvg-name="Colors Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Gujarati
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3774144&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3774144&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387942" tvg-language="English" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387942&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387942&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387947" tvg-language="Kannada" tvg-name="Colors Super" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Colors Super
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387947&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387947&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3774155" tvg-language="Hindi" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" CATCH-UP-FAILED="null" group-title="Jhs Movies", Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3774155&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3774155&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="3479683" tvg-language="Hindi" tvg-name="Colors Cineplex Superhit" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" CATCH-UP-FAILED="null" group-title="Jhs Movies", Colors Cineplex Superhit
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=3479683&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=3479683&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387925" tvg-language="Hindi" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" CATCH-UP-FAILED="null" group-title="Jhs Movies", Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387925&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387925&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271387927" tvg-language="Kannada" tvg-name="Colors Kannada Cinema" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" CATCH-UP-FAILED="null" group-title="Jhs Movies", Colors Kannada Cinema
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387927&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271387927&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271407200" tvg-language="English" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" CATCH-UP-FAILED="null" group-title="Jhs Sports", Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271407200&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271407200&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1271407093" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" CATCH-UP-FAILED="null" group-title="Jhs Sports", Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271407093&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271407093&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1540068711" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi D" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/pp/2404/732404-h-6ab8352c41cf" CATCH-UP-FAILED="null" group-title="Jhs Sports", Star Sports 2 Hindi D
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540068711&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540068711&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540072843" tvg-language="Hindi" tvg-name="TATA IPL TV" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1057/1782285911057-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", TATA IPL TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072843&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072843&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1540040052" tvg-language="Hindi" tvg-name="Star Sports Cricket Classics" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7739/1782284837739-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", Star Sports Cricket Classics
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540040052&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540040052&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.01.27.5.3788%20%28Android%2F13%29
 #EXTINF:-1 tvg-id="1260009749" tvg-language="English" tvg-name="Fit India Campaign Launch" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1357/551357-h" CATCH-UP-FAILED="null" group-title="Jhs Sports", Fit India Campaign Launch
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1260009749&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1260009749&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540072704" tvg-language="Hindi" tvg-name="ICC Champions TV" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8651/1782285268651-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", ICC Champions TV
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072704&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540072704&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540031361" tvg-language="Hindi" tvg-name="MI vs CSK" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4921/1787510934921-b" CATCH-UP-FAILED="null" group-title="Jhs Sports", MI vs CSK
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540031361&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698275" tvg-language="Hindi" tvg-name="BBS20: 24 HRS Channel [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8464/1788708838464-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS20: 24 HRS Channel [Deferred] FHD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698275" tvg-language="Hindi" tvg-name="BBS20: 24 HRS Channel [Deferred] HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8464/1788708838464-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS20: 24 HRS Channel [Deferred] HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698275" tvg-language="Hindi" tvg-name="BBS20: 24 HRS Channel [Deferred] SD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8464/1788708838464-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS20: 24 HRS Channel [Deferred] SD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698275&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698294" tvg-language="Kannada" tvg-name="BBS13 - 24X7 Kannada Stream [Deferred]" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7246/1788706787246-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS13 - 24X7 Kannada Stream [Deferred]
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698294&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698294&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698284" tvg-language="Malayalam" tvg-name="BBS08 - 24X7 Malayalam Stream [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5425/1788707405425-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS08 - 24X7 Malayalam Stream [Deferred] FHD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698284&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698284&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698289" tvg-language="Tamil" tvg-name="BBS10 - 24X7 Tamil Stream [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3548/1788686883548-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS10 - 24X7 Tamil Stream [Deferred] FHD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698289&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698289&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271698292" tvg-language="Telugu" tvg-name="BBS10 - 24X7 Telugu Stream [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3541/1788705493541-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BBS10 - 24X7 Telugu Stream [Deferred] FHD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698292&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271698292&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1271693777" tvg-language="Bengali" tvg-name="BB: 24X7 Bengali Stream [Deferred] FHD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4230/1788186834230-b" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", BB: 24X7 Bengali Stream [Deferred] FHD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1271693777&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1271693777&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540073134" tvg-language="Tamil" tvg-name="Star Vijay Classics" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9026/1783431949026-h" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Star Vijay Classics
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540073134&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540073134&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540074032" tvg-language="Tamil" tvg-name="Star Vijay Fun Games" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1469/1783430931469-h" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Star Vijay Fun Games
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074032&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074032&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540074035" tvg-language="Tamil" tvg-name="Star Vijay Kalakkal Comedy" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8806/1783431318806-h" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Star Vijay Kalakkal Comedy
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074035&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074035&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540074038" tvg-language="Tamil" tvg-name="Star Vijay Movie Time" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/551/1783431460551-h" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Star Vijay Movie Time
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074038&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074038&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #EXTINF:-1 tvg-id="1540074041" tvg-language="Tamil" tvg-name="Star Vijay Super Singer" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9408/1783431839408-h" CATCH-UP-FAILED="null" group-title="Jhs Entertainment", Star Vijay Super Singer
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTVLCOPT:http-cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85
+#EXTVLCOPT:http-cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referer=https://www.hotstar.com/
-https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=exp=1792584058~acl=%2f*~id=b28b70cac571389a8a075f086d45117d~data=hdntl~hmac=d65e607ad2bf4f979cf2cc9accfd35308c3ab4b3cfe9e56d817b7f9ab5a39c85&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=exp=1792627255~acl=%2f*~id=019bae9607396877cd367120bbd1073e~data=hdntl~hmac=367ae2fdb1d66e61151a1ed81907da50eddc8d3b93e98ba0a83d24462a78d8b0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9cZGt3VJujNhF5G4hLRy4LMC6LVznt8J_xVguOvDzw&s=10" group-title="Live events",
@@ -6633,9 +6633,12 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4249615_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg", FC: ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
+#EXTINF:-1 tvg-id="4249665_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg", FC: Sheffield Shield, 2026/27 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792612596~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a85537e8-74c3-49~Signature=ASgJGVD8biHXIgNentu9zl13rGrF42Z8Wal5vER4hNgr4_V7ayDZmlklk9q8cA0mtr1zHKX8ZHffCxp0YA1I99vkmMMH
+https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792623497~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7957876d-543f-4b~Signature=ASgJGVBAT7kwv9SuDoS7-SSnE0xbwX5jF6F6w5-xFOizo23dTUKVDV00uBgw31sOMojebn3c5Z6HkNyopiC_ETrpPlUO
+#EXTINF:-1 tvg-id="4249666_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249666_53087_SAU_QUN_FC-WEB_1791299735359.jpg", FC: Sheffield Shield, 2026/27 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249666_english_hls_b5f24432ee90707_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792626524~_GO=Generated~acl=/mumbai/4249666_english_hls_b5f24432ee90707_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0c51e376-1a6a-49~Signature=ASgJGVCy__vQYOlgBib744t3lKHuEPYkx-hrALBV5VPxIj6rjqKksJbUOsP58_S2uSdWH6NElbwp5FahyogytsAgqCkM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
