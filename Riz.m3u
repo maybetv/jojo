@@ -6633,9 +6633,24 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="139978_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png", FC: GRAND PRIX OF AUSTRALIA 2026 [English]
+#EXTINF:-1 tvg-id="4249611_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png", FC: ATP 250 - Almaty Open 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA
+https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792823057~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_152cd9af-cb08-49~Signature=ASgJGVAiwukhY1oeHtXbq8XPyng9qD6knaBDo0KWMUUQVDpDJZHSdObzvPakF1iHIGH_2nQtqQ0hx59rMpVCU-NyUgUJ
+#EXTINF:-1 tvg-id="4250156_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg", FC: BWF Super 750 - French Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH
+#EXTINF:-1 tvg-id="4250157_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg", FC: BWF Super 750 - French Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H
+#EXTINF:-1 tvg-id="1090550072_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg",Sony: Punjab Falcons vs UP Dhurandhar
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792783478~acl=/*~id=82992835040150394664091180001923~hmac=76bfd8de75e873fde19e517bb56660a487b90ac46cbdaa80e8651631917b915c
+#EXTINF:-1 tvg-id="1090550071_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",Sony: LINK Hong Kong Open - Day 2
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792783478~acl=/*~id=82992835040150394664091180001923~hmac=76bfd8de75e873fde19e517bb56660a487b90ac46cbdaa80e8651631917b915c
+#EXTINF:-1 tvg-id="1090550070_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",Sony: Genesis Championship - Day 2
+#EXTVLCOPT:http-user-agent=Denver1769
+https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792783478~acl=/*~id=82992835040150394664091180001923~hmac=76bfd8de75e873fde19e517bb56660a487b90ac46cbdaa80e8651631917b915c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
