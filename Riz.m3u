@@ -6633,24 +6633,18 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4250484_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg", FC: Emirates D20, 2026 [English]
+#EXTINF:-1 tvg-id="4250485_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250485_53130_EMR_AJM_fc-web_1792412929328.jpg", FC: Emirates D20, 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO
-#EXTINF:-1 tvg-id="4249599_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg", FC: EFL Championship 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A
-#EXTINF:-1 tvg-id="4250108_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png", FC: LALIGA Hypermotion 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250108_english_hls_9de23e4f9271171_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792937395~_GO=Generated~acl=/mumbai/4250108_english_hls_9de23e4f9271171_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d23d1ef2-b5ab-4b~Signature=ASgJGVDIgShQYcz7tYU4gNJQSfqtJ4DV4PgXcV3Xb01KxWU4WCOmEUNCK_Pw0hKDrKdOAyJcEq8Mj9DR59oulpjRSoIH
+https://in-mc-flive.fancode.com/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792945402~_GO=Generated~acl=/mumbai/4250485_english_hls_cf4681936718973_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bffb14b4-58fd-49~Signature=ASgJGVDk-rieEbq3AWBQiUEJYTVyIRlKFVBrpoF4TyH5QVAFgjTrvjn1-RSMVQf2jMQIwPFHWP0EOkFMRDJ8aP4NpxYL
 #EXTINF:-1 tvg-id="4249201_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249201_53038_BHA-W_WHU-W_fc-web.jpg", FC: Barclays Women's Super League 2026-27 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4249201_english_hls_0b616a65a763610_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792944165~_GO=Generated~acl=/mumbai/4249201_english_hls_0b616a65a763610_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_717baf72-1ac2-42~Signature=ASgJGVARYDUq3qQ2taNotnhwQ2jxUTztXj306soA0xTl6k5IHC5LDqsQimqAgVxdRMNrxpIDiXU1UJTNrnCeLyZ7v3UG
+#EXTINF:-1 tvg-id="4250109_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png", FC: LALIGA Hypermotion 2026-27 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250109_english_hls_d7fc37815c58698_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792954008~_GO=Generated~acl=/mumbai/4250109_english_hls_d7fc37815c58698_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_86d9e175-c5a0-47~Signature=ASgJGVB4Uky87Ln9Y0iHaiiKJoNrg9Z13ATv1wxdN04HGw0W48Uu7_n3a6npWYpaolPV6NmUMdd2quHuAJIBBB4_AbsK
 #EXTINF:-1 tvg-id="4250158_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg", FC: BWF Super 750 - French Open 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792942318~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b8e9787-3906-43~Signature=ASgJGVB_dq5PkF9SZW9ewv7L1wVp9bzUrdDRcHneOoFfNAP6aVvoPywc_JkkPg8JrpJKyhNqwV4bXMbk5aaqG17yxPMI
-#EXTINF:-1 tvg-id="4249619_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg", FC: ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P
 #EXTINF:-1 tvg-id="4249626_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg", FC: ATP 250 - BNP Paribas Fortis European Open [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792936139~_GO=Generated~acl=/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_32ff63b6-517a-43~Signature=ASgJGVCvTn9OEUP_Ly-Jt38AvYWRgSw2gyzTr267cSnYHJlibFmuPE7QL_VKYj-ECXxz7e5XJR3ILW3TuTLuilvlVhcE
@@ -6659,28 +6653,19 @@ https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792943544~_GO=Generated~acl=/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_54646a07-0128-41~Signature=ASgJGVBbG3diLiQuqVpd2Ymd9iWa6mWkLjV5bD6SGbKMsKDb-RqpsJxy-rEoiAvRbIHcdv5p2i6VLW5Iy9uY2wTGKTIA
 #EXTINF:-1 tvg-id="1090550233_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",Sony: UFC 333 - Volkanovski vs Evloev
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792909897~acl=/*~id=71402407533777443003809168253360~hmac=e9700bdf3a18cfbc0d23352cf1f5bd912ffc77ccbe2d9a7d234b8047607826f1
 #EXTINF:-1 tvg-id="1090550233_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",Sony: UFC 333 - Volkanovski vs Evloev
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792909897~acl=/*~id=71402407533777443003809168253360~hmac=e9700bdf3a18cfbc0d23352cf1f5bd912ffc77ccbe2d9a7d234b8047607826f1
 #EXTINF:-1 tvg-id="1090550233_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",Sony: UFC 333 - Volkanovski vs Evloev
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792909897~acl=/*~id=71402407533777443003809168253360~hmac=e9700bdf3a18cfbc0d23352cf1f5bd912ffc77ccbe2d9a7d234b8047607826f1
 #EXTINF:-1 tvg-id="1090550233_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",Sony: UFC 333 - Volkanovski vs Evloev
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792909897~acl=/*~id=71402407533777443003809168253360~hmac=e9700bdf3a18cfbc0d23352cf1f5bd912ffc77ccbe2d9a7d234b8047607826f1
 #EXTINF:-1 tvg-id="1090550233_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",Sony: UFC 333 - Volkanovski vs Evloev
 #EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
-#EXTINF:-1 tvg-id="1090550221_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",Sony: Odisha FC vs NorthEast United FC
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
-#EXTINF:-1 tvg-id="1090550221_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",Sony: Odisha FC vs NorthEast United FC
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
-#EXTINF:-1 tvg-id="1090550219_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",Sony: Punjab Falcons vs Haryana Lions
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792909897~acl=/*~id=71402407533777443003809168253360~hmac=e9700bdf3a18cfbc0d23352cf1f5bd912ffc77ccbe2d9a7d234b8047607826f1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
