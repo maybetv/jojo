@@ -6633,23 +6633,12 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4250487_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg", FC: Emirates D20, 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250487_english_hls_db3fb56c1a12613_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793031382~_GO=Generated~acl=/mumbai/4250487_english_hls_db3fb56c1a12613_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1eb535bc-f41f-42~Signature=ASgJGVD-zgJjs2CxZlssAJEViZMnmzruWfHOHArRQa9NYuZ1m8TQddaTCVLdJr71n7DXo4RIhhEbeCa3Tb_7oDlVMjcN
-#EXTINF:-1 tvg-id="4249206_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg", FC: Barclays Women's Super League 2026-27 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4249206_english_hls_ad97c298f552693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793036925~_GO=Generated~acl=/mumbai/4249206_english_hls_ad97c298f552693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88cc3ebe-2c8f-4e~Signature=ASgJGVBIjD6sxaqlU77Gifiid36al-59qylhYLdc598IF6n8qW47LQCV-_Z6rHzEnA06HNeDZDx24ALDgLWK0sF9ougO
 #EXTINF:-1 tvg-id="139506_HIN" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png", FC: F1 MSC CRUISES UNITED STATES GRAND PRIX 2026 [Hindi]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/139506_hindi_hls_ed86a7c33569645_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792951465~_GO=Generated~acl=/mumbai/139506_hindi_hls_ed86a7c33569645_1ta-di_h264/*~SessionID=45a21716d4406927_fc-app_sportsguruand_61e1fe8d-2910-4b~Signature=ASgJGVCh1nzR0JdZpDhwhQ7qeEdQcQPDAhvtD1ZrwGkQcUI0tOF7VtC0XhVCbxG-IrQ_hUqseNMV3sg1nV7E6H3m51wI
 #EXTINF:-1 tvg-id="139506_TAM" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png", FC: F1 MSC CRUISES UNITED STATES GRAND PRIX 2026 [Tamil]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/139506_tamil_hls_6fbe358a3647910_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792951465~_GO=Generated~acl=/mumbai/139506_tamil_hls_6fbe358a3647910_1ta-di_h264/*~SessionID=45a21716d4406927_fc-app_sportsguruand_1c84da11-e76d-4d~Signature=ASgJGVBTDzP8n1Wo4Uz4-bri7FTwMKrkL7JDEkGUqXVCKDKgo_eZY54EHR4X0rzcZjRrLG2dMGxXHX4H5N-6OtJYwRAK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
-#EXTINF:-1 tvg-id="Amz.0643834199819419344675242" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
