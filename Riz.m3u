@@ -6633,9 +6633,9 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="1090550644_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",Sony: 1st Unofficial Test - Day 3
-#EXTVLCOPT:http-user-agent=Denver1769
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793020101~acl=/*~id=12696334223104159894412965106971~hmac=39d2d33aba4e11fc254f0dfe544efe5e5c51915230f8607de40bb75e94c9a3bf
+#EXTINF:-1 tvg-id="4250529" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg", FC: Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
