@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="-", BBC EARTH HD 
-http://202.70.146.135:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
 http://202.70.146.135:8000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="-",&tv HD - Rs 19.00
