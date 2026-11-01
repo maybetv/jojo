@@ -6633,20 +6633,12 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="139511_HIN" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg", FC: F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Hindi]
+#EXTINF:-1 tvg-id="4249670_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg", FC: Sheffield Shield, 2026/27 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/139511_hindi_hls_a6cb54363d37600_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793556559~_GO=Generated~acl=/mumbai/139511_hindi_hls_a6cb54363d37600_1ta-di_h264/*~SessionID=8e2c069a44ee9f20_fc-app_sportsguruand_1fd43442-bac5-40~Signature=ATFKiJvdIUANLwjMJeBStTwODAF_JdQwx0V_M90j6C95VJs1NnuJwhCD1zehL3ZO5ImmWV86T8z1ttiwvKSneiQ9IvcP
-#EXTINF:-1 tvg-id="139511_TAM" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg", FC: F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Tamil]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/139511_tamil_hls_326caee4ab94903_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793556559~_GO=Generated~acl=/mumbai/139511_tamil_hls_326caee4ab94903_1ta-di_h264/*~SessionID=8e2c069a44ee9f20_fc-app_sportsguruand_8aaf734a-2be5-41~Signature=ATFKiJtLFsg_1ytUggEjjHieWFqNPCnpUmvE2vXz7qMEyXSLPQ6P-AMMJnrIbtcW8rKN--W7Ky_3FJYIxxwRaGRwGeIO
-#EXTINF:-1 tvg-id="4250511_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png", FC: VidantaWorld Mexico Open 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250511_english_hls_91146ecc6c34862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793645692~_GO=Generated~acl=/mumbai/4250511_english_hls_91146ecc6c34862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_279_watcho_be2eb0c0-6024-44~Signature=ATFKiJuFxJb_VpLSXL8-JHiZG6sryWP3xPLzJvMtBxWktHGYlvw13TA587gwo6IDJYgnvBzdbcGA4Qwa2o4ylF1TGVcC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
-#EXTINF:-1 tvg-id="Amz.0663446796051263389474415" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1264afa-906b-412e-be15-e2bcb02bfe4e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs. Zimbabwe
+https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793662070~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b98_watcho_3e6ea557-95bd-46~Signature=ATFKiJsZ7B_ISxd5kcH5uW79zJSgl5FWanV3flEqRk-mNZj7dDaxtkPGBs-eS2_Zkk6tHPXLs6z8-4eFBXMOHYGA_9YI
+#EXTINF:-1 tvg-id="1090551673_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",Sony: India A vs New Zealand [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
+https://dai.google.com/linear/hls/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
