@@ -6633,46 +6633,5 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4250559_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958336~_GO=Generated~acl=/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/*~SessionID=7814838588_watcho_14eda7e2-c2ca-42~Signature=AV7HGj5PlAK2ltq_nI6oXwfFCmCISuzem_lDXIjH0UtJ3jYnwB4eJvFcBmd5jIWNFgkmPZJn7QIZQIk957DyV_cASDsO
-#EXTINF:-1 tvg-id="4250560_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958337~_GO=Generated~acl=/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/*~SessionID=7814838588_watcho_f97cd118-dd94-4e~Signature=AV7HGj5hOwLW6e6r_wRsJD0XYNIjPthIjo6PfRYSQcVOjWRsZhjVrN2w81QsZEh43epjCTOYJ08hTKLA1PioTTGw7JAN
-#EXTINF:-1 tvg-id="4250561_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958338~_GO=Generated~acl=/mumbai/4250561_english_hls_fb1c637ed552842_1ta-di_h264/*~SessionID=7814838588_watcho_adca8fc7-7181-4f~Signature=AV7HGj5kS-Eg1SsMFTaaRoBwIObzTB8XgjLLWh0QgNaAenBpL01OLnHx2SnygMau-bWhk3ed6GF-0EmOtIeonGsewgYJ
-#EXTINF:-1 tvg-id="1090552592_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",Sony: MG Indian Super League [ENG]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/uNjM-QluRMyj06_3ktZ4Jw/master.m3u8
-#EXTINF:-1 tvg-id="1090552592_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",Sony: MG Indian Super League [HIN]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/uNjM-QluRMyj06_3ktZ4Jw/master.m3u8
-#EXTINF:-1 tvg-id="1090552592_BEN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",Sony: MG Indian Super League [BEN]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/uNjM-QluRMyj06_3ktZ4Jw/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
-#EXTINF:-1 tvg-id="Amz.5357718841654741186872364" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-#EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-#EXTINF:-1 group-title="Live events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-#EXTINF:-1 group-title="Live events" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 5
+# Error fetching: https://game.playindia.fun/Jtv/addon.php
 # Error fetching:
