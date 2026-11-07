@@ -6636,34 +6636,27 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="4250206_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png", FC: England Lions tour of West Indies, 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4250206_english_hls_e26adb95b447719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794160169~_GO=Generated~acl=/mumbai/4250206_english_hls_e26adb95b447719_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_b1a906c6-4201-48~Signature=AV7HGj6pJh8nECvbmxPHOGBvVEKYt2aixnVPfnYCyDL6wnq1vTQsaOh9MwSMmbQ56zK3B-WczOHwZ5i-QO7TfbmXVKwM
-#EXTINF:-1 tvg-id="4250570_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
+#EXTINF:-1 tvg-id="4250599_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png", FC: World Wide Technology Championship 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794162078~_GO=Generated~acl=/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_16f4a4bf-8eb6-4c~Signature=AV7HGj4dj94iWvcxM_NpIcg_tKQtJVE3dGs0DjbIkt17Sw9a7VIsV4EhaDuIHx9NfCrWsgkiegwSnsGuNqeF3TCo3K0H
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd0d09f4a582b4704a1167cde0040a0c:aec09d2ba1d833320e0c277e642f0cc9
-#EXTINF:-1 tvg-id="amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor
+https://in-mc-flive.fancode.com/mumbai/4250599_english_hls_688a7793522084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794167685~_GO=Generated~acl=/mumbai/4250599_english_hls_688a7793522084_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cff804b0-1337-44~Signature=AV7HGj7VacyyOhngcOTTnm4N73hr_JPxAiOCWUJypxdQqn6q5HTlyOjBYQpqVQrSqibSSnmqwYKQScogTLhz19lojTAE
+#EXTINF:-1 tvg-id="1090553101_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",Sony: India A vs New Zealand [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtvojatdog/out/v1/a1011a02b4f24df9877105d01d5bf77f/cenc.mpd
+https://dai.google.com/linear/hls/event/kLLXpEquS0Wj3_WTm-URPw/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa010bc92dde14c3944325144f6f2b28:b67be96240d0e7efa376da001cab17da
-#EXTINF:-1 tvg-id="amzn1.dv.gti.bac0726f-d268-496e-8016-c1804de5c083" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bac0726f-d268-496e-8016-c1804de5c083/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces
+#KODIPROP:inputstream.adaptive.license_key=8dc4e11ef6a892deba18bae208771bdc:160db9ee9be0a1d545d7e6a71310f76e
+#EXTINF:-1 tvg-id="amzn1.dv.gti.8095dec5-941f-4dd7-92b2-8907dc4c1a0f" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8095dec5-941f-4dd7-92b2-8907dc4c1a0f/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 11th Match - Dallas Lions vs Washington Eagles
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/48nth1upy3/out/v1/ce10e33bcdfb4f3b864abd94ad7ec541/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5rsbyedzhv/out/v1/e13a154be0b84d4bb8f213e089547106/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
-#EXTINF:-1 tvg-id="Amz.6734008714587218504707419" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
+#KODIPROP:inputstream.adaptive.license_key=c4ea268507a0122a022aec88c67deaa0:780d4b59a68bf3a6ad7e488ac13c0c9c
+#EXTINF:-1 tvg-id="Amz.5431937313488665591267786" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76
-#EXTINF:-1 tvg-id="Amz.8161253050205987873026798" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream.adaptive.license_key=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330
+#EXTINF:-1 tvg-id="Amz.7366324672958577852996077" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bac0726f-d268-496e-8016-c1804de5c083/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9
-#EXTINF:-1 tvg-id="Amz.8073128801374011930789944" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
