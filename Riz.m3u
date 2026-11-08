@@ -6633,9 +6633,6 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="4250746_ENG" group-title="Live events" tvg-logo="https://images.fancode.com/aig/match/v1793949984312/4250746_CASACARDS_APP.png", FC: Namibia Super 50, 2026 [English]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-flive.fancode.com/mumbai/4250746_english_hls_58958726b464286_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794209096~_GO=Generated~acl=/mumbai/4250746_english_hls_58958726b464286_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_0fb3216c-22fa-46~Signature=AV7HGj6VX9-omVuNSXPGx0PqUQ7Ogc_zQ8GGagQ0YDoIfhRt85wrG3UK8sh0HYdjoOAcIv3IZ_avS9Pbbtt1X9pxE8cN
 #EXTINF:-1 tvg-id="4250759_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg", FC: Barclays Women's Super League 2026-27 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4250759_english_hls_b773074ee222390_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1794232226~_GO=Generated~acl=/mumbai/4250759_english_hls_b773074ee222390_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_411c0708-f961-4b~Signature=AV7HGj7afLMEpKK2RTBM6CMnLvuw5BQZbFvqDFlX-NvRjrmxJiMDP0sIbWSCpI9hxJQ_gH5uwEFn7Wp-r-NvMvkc5bcE
@@ -6651,16 +6648,19 @@ https://in-mc-flive.fancode.com/mumbai/139935_english_hls_f07d5cc36555106_1ta-di
 #EXTINF:-1 tvg-id="4250574_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/B-Shelton-vs-C-Alcaraz_fc-web.jpg", FC: ATP Masters - Rolex Paris Masters 2026 [English]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 https://in-mc-flive.fancode.com/mumbai/4250574_english_hls_2e7edfacc886720_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794232229~_GO=Generated~acl=/mumbai/4250574_english_hls_2e7edfacc886720_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_6e3bb347-e89c-45~Signature=AV7HGj6zYIqyZ7bANHLywb1a_sFSrjbSl0oexhqGAifChVhNDNFGvVFpbs41BBGV8KQvJRDD0bFqkhPL9VkAN-1FwPEK
+#EXTINF:-1 tvg-id="4250581_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg", FC: ATP 250 - Bybit Stockholm Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250581_english_hls_d97ff987cc27093_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794235926~_GO=Generated~acl=/mumbai/4250581_english_hls_d97ff987cc27093_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_0bee7fa6-2c40-49~Signature=AV7HGj4RZmKytp9m56M8QsA_5-g3emhDO1OulYndDgslMfEulB5qMjhcD495dOUvUQugfSW2gwKlojHIFMD-egmSZO0K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f52e72f33cc289c8cc4096decfaba575:b609c460b9c21b55f3e506631e64b8a5
-#EXTINF:-1 tvg-id="amzn1.dv.gti.6cc61be3-5fd9-4a37-9e74-d4fe0dc4b75e" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cc61be3-5fd9-4a37-9e74-d4fe0dc4b75e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 5th Match - United Tigers vs UAE Bulls
+#KODIPROP:inputstream.adaptive.license_key=e59f67b0afea453a48e34cd559de6106:7cd5980423f1abfa22b466977f12a994
+#EXTINF:-1 tvg-id="amzn1.dv.gti.ca15d56a-1686-4f1a-a957-26672a4e281c" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ca15d56a-1686-4f1a-a957-26672a4e281c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - Semi-Final 1 - Washington Eagles vs Chicago Cavaliers
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e6csbypjuw/out/v1/2c3aca68ce284fc09fe760526aeae5c3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cm10g9ashf/out/v1/7282adcec0db4ffd817479d3a9d9f0f6/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207
-#EXTINF:-1 tvg-id="Amz.7787310374175942524733846" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cc61be3-5fd9-4a37-9e74-d4fe0dc4b75e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 5th Match - United Tigers vs UAE Bulls
+#KODIPROP:inputstream.adaptive.license_key=9dfb8473e5025e0b19003899c6c025ef:97267cc823cf5305a784cbe042003ed4
+#EXTINF:-1 tvg-id="Amz.4346321089855544163206122" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ca15d56a-1686-4f1a-a957-26672a4e281c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - Semi-Final 1 - Washington Eagles vs Chicago Cavaliers
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rktm56g5mu/out/v1/1f82e1df15384125a660c3ac49a6ad79/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsnhwsppdo/out/v1/8f811ab5be3f4500a756c27eba7fa360/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
