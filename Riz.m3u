@@ -6633,14 +6633,41 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="1090553299_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",Sony: India A vs New Zealand [ENG]
+#EXTINF:-1 tvg-id="4250527_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg", FC: West Indies tour of Bangladesh, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC
+#EXTINF:-1 tvg-id="4249772_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg", FC: Zimbabwe Tour of Afghanistan in UAE, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794289794~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_1f0fdc1d-6d15-4e~Signature=AV7HGj4a1rpqFhT6QC5Xq7sh8PaoICZKMuy3YXoTIjMt3DvcOi6am1nhvZpeSWChRngrJW3dKY1a6goB9Lxmq7EWXSQC
+#EXTINF:-1 tvg-id="4250373_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg", FC: Nepal Premier League Season 3, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK
+#EXTINF:-1 tvg-id="1090553302_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+https://dai.google.com/linear/hls/event/Vrn2Itc7TFm6YzQYNzhDzg/master.m3u8
+#EXTINF:-1 tvg-id="1090553301_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
+#EXTVLCOPT:http-user-agent=Denver1769
+https://dai.google.com/linear/hls/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b78bd6a1949d3f53b7a361c1b583fae5:24ac517a94973df9857408b01a05afd7
-#EXTINF:-1 tvg-id="amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters
+#KODIPROP:inputstream.adaptive.license_key=be9def464903ed8eccc3271ce94232c9:670629b15741736db66b32ddfa0adee5
+#EXTINF:-1 tvg-id="amzn1.dv.gti.9b615900-8458-4cf3-85e6-5ed24a3df44f" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b615900-8458-4cf3-85e6-5ed24a3df44f/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 9th Match - Bangladesh U19 vs Malaysia U19
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qmmqjzffhm/out/v1/392a005baab6477ebe82f292c48d418c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/huit8hqfod/out/v1/340eec3bd65e49a99d709697f5687661/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b21d8bf3c6a808efe7f47fc7701a7a1:a4658e9e41b6fbe87548bf63083e5209
+#EXTINF:-1 tvg-id="amzn1.dv.gti.84a74748-70b4-4634-85f9-4d2a1c7e1622" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84a74748-70b4-4634-85f9-4d2a1c7e1622/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 10th Match - Sri Lanka U19 vs Afghanistan U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kflseuhcfo/out/v1/8449f1a41c26491ca92bda2e9f3957c8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2b9fc34918c2824908cb535d37c1761:30d5357bbe4d204ac0dcebe3b7eba0ae
+#EXTINF:-1 tvg-id="amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3fkwd6ychl/out/v1/206562009ca1401590198ec669e48d62/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34fc57effd843bf3048715987cb2fd46:ffb596424383b6b94b79c8d78a9841ec
+#EXTINF:-1 tvg-id="amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxhjpseoux/out/v1/4d014bc337234379b8bf4ac152feb7d6/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd036a56727c3d94f2baeb8a338483f5:dc991f1c73cb6d1c5694889cafcac434
 #EXTINF:-1 tvg-id="Amz.0845194381401070453933267" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters
