@@ -6633,26 +6633,38 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="1090553316_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",Sony: India vs New Zealand [ENG]
+#EXTINF:-1 tvg-id="4250375_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg", FC: Nepal Premier League Season 3, 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO
+#EXTINF:-1 tvg-id="4250583_ENG" group-title="Live events" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg", FC: ATP 250 - Bybit Stockholm Open 2026 [English]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ
+#EXTINF:-1 tvg-id="1090553324_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca
-#EXTINF:-1 tvg-id="1090553316_HIN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",Sony: India vs New Zealand [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119735/cricodi_1011/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794344781~acl=/*~id=14096333270977206716137184049600~hmac=237513b2bb96af86b57256c88a778939c308613c77bd4e2290a5809f21b3109e
+#EXTINF:-1 tvg-id="1090553322_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg",Sony: ACC Men's U19 Asia Cup [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca
-#EXTINF:-1 tvg-id="1090553316_TAM" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",Sony: India vs New Zealand [TAM]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca
-#EXTINF:-1 tvg-id="1090553316_TEL" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",Sony: India vs New Zealand [TEL]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca
-#EXTINF:-1 tvg-id="1090553316_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794301211~acl=/*~id=00858194213530836677264756418285~hmac=655ba2e25cfc6ca0b7a3da4acd6270abc89c7125f6ba418bac948e1f98cd33ca
+https://dai.google.com/linear/hls/event/3UDxKvk9RJuVigYi5ej2WQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
-#EXTINF:-1 tvg-id="Amz.1482290416195193880686960" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1eb04179-dfb1-4e4a-992b-c30607ed3a3b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India
+#KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
+#EXTINF:-1 tvg-id="Amz.3118796037597178508858803" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506
+#EXTINF:-1 tvg-id="Amz.8410991878730917064926717" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82ee6ea6-b151-42f2-b95d-5a9c299fee43/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7
+#EXTINF:-1 tvg-id="Amz.3408620552397788907522670" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a706cc75-2ccd-438b-90b4-e96fb22d94cd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
+#EXTINF:-1 tvg-id="Amz.7260675664138847998754071" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.081eac8c-03af-410a-8305-e286be59f79c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
