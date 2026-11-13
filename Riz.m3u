@@ -6633,14 +6633,6 @@ https://game.playindia.fun/Jtv/jhs.m3u8?id=1540074041&token=RiYlIZ|Cookie=hdntl=
 #EXTINF:-1 tvg-id="Shinchan" tvg-logo="https://static.wikia.nocookie.net/crayonshinchan/images/3/36/Logo_slogan.png" group-title="Kids", Shinchan 24/7
 #EXTVLCOPT:http-user-agent=Denver1769
 #https://port.denver69.fun/Kids/shinchan.m3u8
-#EXTINF:-1 tvg-id="1090553651_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg",Sony: UEFA Nations League [ENG]
-#EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f5dd13b8a8e3359a73e223b88369060:876bbda3e69865498248ea092dce4c9e
-#EXTINF:-1 tvg-id="Amz.9685094712666209705311683" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b801d005-fcdb-46c5-b8cf-28f5d424d666/1/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
