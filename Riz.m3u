@@ -6648,14 +6648,29 @@ https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-6003
 #EXTINF:-1 tvg-id="1090554160_KAN" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",Sony: India vs New Zealand [KAN]
 #EXTVLCOPT:http-user-agent=Denver1769
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1
-#EXTINF:-1 tvg-id="1090554243_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",Sony: UFC 334 - Gane vs Hokit [ENG]
+#EXTINF:-1 tvg-id="1090554163_ENG" group-title="Live events" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",Sony: DP World Tour [ENG]
 #EXTVLCOPT:http-user-agent=Denver1769
-https://dai.google.com/linear/hls/event/y0MKvdhXTFu4Wch-TT5taQ/master.m3u8
+https://dai.google.com/linear/hls/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1f8a6b81514e5243cc85d00effcf384:697893a5e9dbc7916aedd1ac857737b2
-#EXTINF:-1 tvg-id="Amz.3473241451379505358574386" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efd1e539-311e-4d71-a615-1e744d8c8d68/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women
+#KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
+#EXTINF:-1 tvg-id="Amz.5202535813929278371846488" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: India tour of New Zealand 2026 - 5th ODI - New Zealand vs India
 #EXTVLCOPT:http-user-agent=Denver1769
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105
+#EXTINF:-1 tvg-id="Amz.6281988796158515844038344" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.654da556-d9a1-48e3-8199-a9b381ad6019/3/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Australia vs. England
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
+#EXTINF:-1 tvg-id="Amz.4164976880019714892638773" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
+#EXTINF:-1 tvg-id="Amz.2695785813053501650124424" group-title="Live events" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg", Willow: Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
+#EXTVLCOPT:http-user-agent=Denver1769
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 #EXTINF:-1 group-title="Live events" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
