@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bbs20-24hrs-malayalam" tvg-name="Bigg Boss Malayalam: 24 HRS Channel" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6575/1788707966575-h" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7",Bigg Boss Malayalam: 24 HRS Channel
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1795048273~acl=%2f*~id=21f2cba0c837336a6ab06dc5fdd0b69a~data=hdntl~hmac=df7ca916a9ceea41427003ae005e442169eea95adf95ba0375d1c479c3c807a7","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
+#EXTHTTP:{"Cookie":"hdntl=exp=1795057361~acl=%2f*~id=a56a06c6649efbd99716d0117449134c~data=hdntl~hmac=737f9b821b4cc6cdcad7328a07201004689046cd884d52f44059ef8accfc693e","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?&hdntl=exp=1795057361~acl=%2f*~id=a56a06c6649efbd99716d0117449134c~data=hdntl~hmac=737f9b821b4cc6cdcad7328a07201004689046cd884d52f44059ef8accfc693e
